@@ -29,5 +29,5 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (
 [hideifembedded]
 [See the demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [A module, embedded](https://demo.hibbittsdesign.org/grav-open-course-hub/modules/module-04?embedded=true) · [This page, embedded](/grav/open-course-hub?embedded=true)
 
-Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen)
+Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#admin2-site-readme-plugin).
 [/hideifembedded]
