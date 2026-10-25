@@ -10,6 +10,7 @@ Its twin, for **courses**: a free, open-source course site organized by modules.
 - A module list beside every module page, with Previous and Next
 - Home page reminders that link to this week's and next week's modules
 - An optional course blog
+- Teaching several courses? **Open MultiCourse Hub 2** gives each one its own course site, all in a single install ([demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/))
 
 Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (this works for Open Publishing Space pages too).
 
