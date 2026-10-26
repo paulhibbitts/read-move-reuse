@@ -3,6 +3,8 @@ title: 'From Pressbooks or Your LMS'
 section_number: '4'
 description: 'Free converters turn an existing book or course into Markdown pages for either site.'
 child_type: section-page
+badge_label: Move
+badge_color: plain
 side_box: ''
 ---
 

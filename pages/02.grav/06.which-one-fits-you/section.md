@@ -17,7 +17,7 @@ Both are edited in the browser with Grav's new Admin 2 panel, or as Markdown fil
 > **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or PDF), you'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
 
 > [!TIP]
-> Take this whole guide with you: its **full text** link gives every page as one Markdown file.
+> **Reuse:** take this whole guide with you – its **full text** link gives every page as one Markdown file.
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 
