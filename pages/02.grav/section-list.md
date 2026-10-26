@@ -27,7 +27,7 @@ keep_my_place: true
 hide_from_menu: true
 ---
 
-Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters, built on Grav 2, that make them open for their authors too.
+Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters, built on Grav 2, that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
 The guide is built with one of them, Open Publishing Space, so many of the features it describes are working on the pages you're reading.
 
