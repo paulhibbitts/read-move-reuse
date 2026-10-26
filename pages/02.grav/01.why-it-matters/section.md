@@ -4,8 +4,6 @@ section_number: '1'
 description: 'Pages designed for readers and learners, content authors can move between tools, and the raw Markdown for anyone to reuse.'
 learning_objectives: "- See how both starters are designed for readers and learners\n- Move content between tools, and bring it in from Pressbooks or an LMS\n- Reuse any page's Markdown, for your own purposes"
 child_type: section-page
-badge_label: Reuse
-badge_color: plain
 side_box: '**See the Markdown behind this page** – [view it now](/grav/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 

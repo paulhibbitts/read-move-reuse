@@ -3,8 +3,6 @@ title: 'Open Publishing Space 2'
 section_number: '2'
 description: 'Open textbooks and guides as websites, with the Markdown behind every page a click away.'
 child_type: section-page
-badge_label: Read
-badge_color: plain
 side_box: 'Want to jump right in? Download [Open Publishing Space](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank).'
 ---
 

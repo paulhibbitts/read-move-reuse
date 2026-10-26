@@ -3,8 +3,6 @@ title: 'Accessibility'
 section_number: '5'
 description: 'Keyboard, screen reader and reading comfort features, built in.'
 child_type: section-page
-badge_label: Read
-badge_color: plain
 ---
 
 Built in, for different kinds of readers:
