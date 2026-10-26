@@ -11,6 +11,7 @@ Every topic in the guide, from A to Z.
 
 - [Accessibility](/grav/accessibility)
 - [Admin 2](/grav/which-one-fits-you)
+- [Admin2 Site ReadMe plugin](/grav/open-publishing-space)
 - [Arrow keys](/grav/accessibility)
 
 ## B
@@ -25,6 +26,7 @@ Every topic in the guide, from A to Z.
 ## D
 
 - [Dark mode](/grav/accessibility)
+- [Diagrams (Mermaid)](/grav/open-publishing-space)
 
 ## E
 
@@ -51,12 +53,14 @@ Every topic in the guide, from A to Z.
 ## M
 
 - [Markdown](/grav/why-it-matters)
+- [Math (LaTeX)](/grav/open-publishing-space)
 - [Modules](/grav/open-course-hub)
 
 ## O
 
 - [OER attribution](/grav/open-publishing-space)
 - [Open Course Hub 2](/grav/open-course-hub)
+- [Open MultiCourse Hub 2](/grav/open-course-hub)
 - [Open Publishing Space 2](/grav/open-publishing-space)
 
 ## P
