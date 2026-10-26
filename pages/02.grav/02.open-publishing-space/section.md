@@ -8,19 +8,14 @@ side_box: 'Want to jump right in? Download [Open Publishing Space](https://getgr
 
 A free, open-source website starter for **open textbooks and guides**, with a blog alongside.
 
-- Guides with section cards, reading progress and **Keep My Place** (come back to this guide's home page to continue where you left off, even partway down a page)
-- Learning Objectives, OER attribution and search
+- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (come back to this guide's home page to continue where you left off, even partway down a page)
 - One site can hold several guides, each with a card on a Guides page, plus other pages – like this site's Topics and Resources
-- On phones, the header slides out of the way while you read, and Previous/Next stay in a bar at the bottom of the screen (scroll this page on your phone to see both)
 - Diagrams and math written as plain text, with the free [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin) and [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin) plugins – like $E = mc^2$, or this diagram:
 
 ```mermaid
 flowchart LR
   A[Read] --> B[Move] --> C[Reuse]
 ```
-
-> [!TIP]
-> **Get the Markdown behind any page:** add `.md` to its address – no access to the source files needed.
 
 ![An Open Publishing Space guide home page, with its cover, Start Reading button, search box and a card for each section](open-publishing-space-guide.jpg)
 
