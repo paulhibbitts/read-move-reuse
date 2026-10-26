@@ -16,6 +16,6 @@ Start from what you already have, with two free converters (both in beta) – no
 
 ![A converted module intro page on a phone, twice: at the top with the module title, authors and three icons, and scrolled down to a Learning Objectives box listing four outcomes, both with a Previous and Next bar at the bottom of the screen](pressbooks-to-open-publishing-space-phone.webp)
 
-*A module's intro page on a phone, converted with no revisions: its text and images, then its Learning Outcomes as a Learning Objectives box*
+*A module's intro page on a phone: its text and images, then its Learning Outcomes as a Learning Objectives box*
 
 Examples (raw conversions, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) · [an LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/)
