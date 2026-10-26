@@ -7,7 +7,7 @@ child_type: section-page
 side_box: '**Reuse:** see the Markdown behind this page – [view it now](/grav/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 
-Hello there, I'm Paul Hibbitts – I design and build free, open-source tools that turn Markdown into modern, self-managed websites for open educators and publishers. Before that, I taught user interface design for over 25 years, mostly at SFU, where I opened up my CMPT-363 course with public course hubs built with Docsify and Grav.
+Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
 
 **Open both ways:** content that's open for readers often stays inside the platform for its authors – harder to edit elsewhere, move or keep. What if it were open for both?
 
