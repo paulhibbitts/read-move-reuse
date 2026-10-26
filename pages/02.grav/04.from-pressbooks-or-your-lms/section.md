@@ -10,7 +10,7 @@ Start from what you already have, with two free converters (both in beta) – no
 - **[Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
 - **[Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard, and download its modules, ready for Open Course Hub
 
-![A chapter of an openly licensed Pressbooks book, beside the same chapter after conversion to an Open Publishing Space guide with its sidebar hidden, with its heading, text and image carried over](pressbooks-to-open-publishing-space.webp)
+![A chapter of an openly licensed Pressbooks book, beside the same chapter after conversion to an Open Publishing Space guide, with its heading, text and image carried over, and a sidebar with a search box and the book's modules and chapters](pressbooks-to-open-publishing-space.webp)
 
 *The same chapter in Pressbooks and in Open Publishing Space, with no revisions – from [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA)](https://ecampusontario.pressbooks.pub/universaldesign2/), CC BY 4.0*
 
