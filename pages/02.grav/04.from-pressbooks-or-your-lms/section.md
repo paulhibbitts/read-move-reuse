@@ -3,7 +3,6 @@ title: 'From Pressbooks or Your LMS'
 section_number: '4'
 description: 'Free converters turn an existing book or course into Markdown pages for either site.'
 child_type: section-page
-side_box: ''
 ---
 
 Start from what you already have, with two free converters (both in beta) – no Grav installation needed to see what carries over:

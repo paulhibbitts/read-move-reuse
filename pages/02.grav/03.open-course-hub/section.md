@@ -3,7 +3,7 @@ title: 'Open Course Hub 2'
 section_number: '3'
 description: 'An open course site organized by modules, ready to embed in your LMS.'
 child_type: section-page
-side_box: 'Want to jump right in? Download [Open Course Hub](https://getgrav.org/downloads/skeletons?target=_blank#open-course-hub) or try the [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/?target=_blank).'
+side_box: 'Want to jump right in? Download [Open Course Hub](https://getgrav.org/downloads/skeletons?target=_blank#course-hub-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/?target=_blank).'
 ---
 
 Its twin, for **courses**: a free, open-source course site organized by modules.
