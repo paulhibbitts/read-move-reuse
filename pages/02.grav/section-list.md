@@ -33,7 +33,4 @@ The guide is built with one of them, Open Publishing Space, so many of the featu
 
 ===
 
-> [!TIP]
-> Everything here is plain Markdown – see [this page as Markdown](/index.md), or use the **Full text** link below for the whole guide.
-
 Prepared for the ETUG Fall Workshop 2026.
