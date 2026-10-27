@@ -14,7 +14,7 @@ Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design
 This guide shows two free tools that are designed for readers and learners, let authors move their content, and let anyone reuse it.
 
 [definition title="The DIY answer: plain Markdown"]
-A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's now supported almost everywhere, from GitHub and note-taking apps to Google Docs, and it's widely used by other tools, including AI. Keep every page in Markdown, on a free site you control.
+A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs, and it's widely used by other tools, including AI. Keep every page in Markdown, on a free site you control.
 [/definition]
 
 No slides needed: this one guide works as a presentation (← and → move between pages), a web page to read at your own pace, an LMS embed, a printout or Markdown – all from a single source. Write once, use anywhere.
