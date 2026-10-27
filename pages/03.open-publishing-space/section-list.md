@@ -1,8 +1,8 @@
 ---
 title: 'Open Textbooks and Guides'
 subtitle: 'A DIY Path from Plain Markdown or Pressbooks'
-cover_image: open-books.jpg
-cover_image_alt: 'Open books spread across a table in warm, slanting sunlight'
+cover_image: open-book-sky.jpg
+cover_image_alt: 'An open book floating against a blue sky, its pages fanned out'
 cover_image_layout: small
 authors: 'Paul Hibbitts'
 edition: 'First Edition, 2026'
@@ -14,7 +14,7 @@ cards_per_row: '3'
 show_oer_attribution: true
 license: 'CC BY 4.0'
 license_url: 'https://creativecommons.org/licenses/by/4.0/'
-attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@rey_7">Rey Seven</a> on <a href="https://unsplash.com/photos/brown-books-closeup-photography-_nm_mZ4Cs2I">Unsplash</a>.'
+attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@michaela_st">Michaela St</a> on <a href="https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s">Unsplash</a>.'
 published: true
 child_type: section
 keep_my_place: true
