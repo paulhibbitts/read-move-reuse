@@ -33,6 +33,8 @@ Many platforms can make textbooks and courses open for their readers and learner
 
 The guide is built with one of them, Open Publishing Space, so many of the features it describes are working on the pages you're reading.
 
+See also: [Topics](/grav/topics) · [Resources](/grav/resources)
+
 ===
 
-Prepared for the ETUG Fall Workshop 2026.
+Originally prepared for the ETUG Fall Workshop 2026.

@@ -1,0 +1,33 @@
+---
+title: 'Open Courses'
+subtitle: 'A DIY Path from Plain Markdown or Your LMS'
+cover_image: sticky-notes.jpg
+cover_image_alt: 'A stack of colourful sticky-note pads, in layers of green, orange, pink and lime'
+cover_image_layout: small
+authors: 'Paul Hibbitts'
+edition: 'First Edition, 2026'
+last_updated: '27-10-2026 00:00'
+section_label: Part
+show_reading_progress: true
+prev_next_position: both
+cards_per_row: '3'
+show_oer_attribution: true
+license: 'CC BY 4.0'
+license_url: 'https://creativecommons.org/licenses/by/4.0/'
+attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@glencarrie">Glen Carrie</a> on <a href="https://unsplash.com/photos/green-yellow-and-pink-colored-paper-tF0PZC1MFqE">Unsplash</a>.'
+published: true
+child_type: section
+keep_my_place: true
+hide_from_menu: true
+side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
+---
+
+Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere. This short guide introduces Open Course Hub, a free, open-source website starter for open courses organized by modules, and its sibling Open MultiCourse Hub for several courses – plus a free converter that brings in a course from your LMS.
+
+This guide is built with Open Course Hub's sibling, Open Publishing Space – both use the same plain Markdown approach.
+
+See also: [Topics](/open-course-hub/topics) · [Resources](/open-course-hub/resources)
+
+===
+
+Originally prepared for the ETUG Fall Workshop 2026.

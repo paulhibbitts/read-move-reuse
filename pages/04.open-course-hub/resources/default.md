@@ -1,16 +1,17 @@
 ---
 title: 'Resources'
+menu_order: 2
 ---
 
 # Resources
 
-Links for going further with the projects in the guide, and with Markdown itself.
+Links for going further with Open Course Hub and Open MultiCourse Hub, and with Markdown itself.
 
 ## The Projects
 
-- **Open Publishing Space 2** – demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - **Open Course Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub)
-- **The converters** – [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
+- **Open MultiCourse Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site) · [GitHub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
+- **Common Cartridge Converter** – [convert a course](https://common-cartridge-converter.hibbittsdesign.org/) · [all converters](https://grav-converters.hibbittsdesign.org/)
 
 ## Writing in Markdown
 
@@ -27,14 +28,14 @@ Links for going further with the projects in the guide, and with Markdown itself
 
 ## Learning More
 
-- [Grav Learn](https://learn.getgrav.org/) – the documentation for Grav, the free CMS both projects are built on
+- [Grav Learn](https://learn.getgrav.org/) – the documentation for Grav, the free CMS both course starters are built on
 - [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) – all four free starters, side by side
 - [Leap into Open Publishing](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/main&homepage=leap-into-open-publishing-standalone-guide.md&edit-link=https://github.com/paulhibbitts/published-markdown-files/blob/main/leap-into-open-publishing-standalone-guide.md&edit-link-text=View%20Source%20Markdown%20File&edit-link-emoji=:page_facing_up:&browser-tab-title=Leap%20into%20Open%20Publishing%20Guide&sidebar=true&searchbox=true&maxLevel=2&font-family=Open%20Sans,sans-serif&header-weight=600&dark-mode=auto#/?id=-additional-resources) – a short guide to open publishing, with more resources
 
 ## Other Options
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
-- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) and [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – premium counterparts, built on the Grav Premium Helios theme
+- [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart, built on the Grav Premium Helios theme
 
 > [!NOTE]
-> This page and Topics sit alongside the guide – any Grav page can, so one site can hold one or more guides plus pages like these.
+> This page and Topics belong to this guide without being sections of it – any Grav page can, so one site can hold several guides, each with pages like these.
