@@ -82,6 +82,7 @@ Every topic in the guide, from A to Z.
 - [Search](/grav/open-publishing-space)
 - [Several guides on one site](/grav/open-publishing-space)
 - [Show/Hide If Embedded](/grav/open-course-hub)
+- [Sidebar, hiding](/grav/accessibility)
 - [Skip to content](/grav/accessibility)
 
 ## T
