@@ -1,8 +1,8 @@
 ---
 title: 'Open Courses'
 subtitle: 'A DIY Path from Plain Markdown or Your LMS'
-cover_image: sticky-notes.jpg
-cover_image_alt: 'A stack of colourful sticky-note pads, in layers of green, orange, pink and lime'
+cover_image: bicycle-yellow-wall.jpg
+cover_image_alt: 'A bicycle with a front basket leaning against a yellow wall'
 cover_image_layout: small
 authors: 'Paul Hibbitts'
 edition: 'First Edition, 2026'
@@ -14,7 +14,7 @@ cards_per_row: '3'
 show_oer_attribution: true
 license: 'CC BY 4.0'
 license_url: 'https://creativecommons.org/licenses/by/4.0/'
-attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@glencarrie">Glen Carrie</a> on <a href="https://unsplash.com/photos/green-yellow-and-pink-colored-paper-tF0PZC1MFqE">Unsplash</a>.'
+attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@cbarbalis">Chris Barbalis</a> on <a href="https://unsplash.com/photos/female-beach-cruiser-bike-leaning-on-yellow-painted-wall-Lpqg7ypu2B4">Unsplash</a>.'
 published: true
 child_type: section
 keep_my_place: true

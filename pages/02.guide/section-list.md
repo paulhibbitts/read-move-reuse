@@ -5,7 +5,7 @@ cover_image: chris-robert-P189JexXzQY-unsplash.jpg
 cover_image_alt: 'A Little Free Library on wheels, with books behind its glass doors'
 cover_image_layout: small
 metadata:
-    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/02.grav/og-image.jpg'
+    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/02.guide/og-image.jpg'
     'og:image:alt': 'A Little Free Library on wheels, with books behind its glass doors'
     'og:title': 'Read, Move, Reuse: Free, Open-Source DIY Tools for Open Textbooks, Guides and Courses'
     'og:description': 'A short guide to two free, open-source Grav 2 website starters that make textbooks, guides and courses open for their readers and their authors.'
