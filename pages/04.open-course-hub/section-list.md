@@ -34,8 +34,6 @@ Open course materials are meant to be shared and reused, but they often live ins
 
 This guide is built with Open Course Hub's sibling, Open Publishing Space – both use the same plain Markdown approach.
 
-See also: [Topics](/open-course-hub/topics) · [Resources](/open-course-hub/resources)
-
 ===
 
 Originally prepared for the ETUG Fall Workshop 2026.

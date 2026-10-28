@@ -34,8 +34,6 @@ Open textbooks and guides are meant to be reused and remixed, but they often liv
 
 The guide is built with Open Publishing Space, so many of the features it describes are working on the pages you're reading.
 
-See also: [Topics](/open-publishing-space/topics) · [Resources](/open-publishing-space/resources)
-
 ===
 
 Originally prepared for the ETUG Fall Workshop 2026.

@@ -1,13 +1,13 @@
 ---
-title: 'Read, Move, Reuse'
-subtitle: 'Free, Open-Source DIY Tools for Open Textbooks, Guides and Courses'
+title: 'Open Textbooks, Guides and Courses'
+subtitle: 'A DIY Path from Plain Markdown, Pressbooks or Your LMS'
 cover_image: chris-robert-P189JexXzQY-unsplash.jpg
 cover_image_alt: 'A Little Free Library on wheels, with books behind its glass doors'
 cover_image_layout: small
 metadata:
     'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/02.guide/og-image.jpg'
     'og:image:alt': 'A Little Free Library on wheels, with books behind its glass doors'
-    'og:title': 'Read, Move, Reuse: Free, Open-Source DIY Tools for Open Textbooks, Guides and Courses'
+    'og:title': 'Open Textbooks, Guides and Courses: A DIY Path from Plain Markdown, Pressbooks or Your LMS'
     'og:description': 'A short guide to two free, open-source Grav 2 website starters that make textbooks, guides and courses open for their readers and their authors.'
     'og:type': website
     'twitter:card': summary_large_image
@@ -32,8 +32,6 @@ side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativec
 Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters, built on Grav 2, that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
 The guide is built with one of them, Open Publishing Space, so many of the features it describes are working on the pages you're reading.
-
-See also: [Topics](/guide/topics) · [Resources](/guide/resources)
 
 ===
 

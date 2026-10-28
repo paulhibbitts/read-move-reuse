@@ -7,7 +7,7 @@ menu: 'About'
 
 This site was originally prepared for the ETUG Fall Workshop 2026. It holds three short guides to free, open-source DIY tools for open textbooks, guides and courses:
 
-- **[Read, Move, Reuse](/guide)** – both website starters, plus the converters that bring in a Pressbooks book or LMS course
+- **[Open Textbooks, Guides and Courses](/guide)** – both website starters, plus the converters that bring in a Pressbooks book or LMS course
 - **[Open Textbooks and Guides](/open-publishing-space)** – Open Publishing Space on its own, with the Pressbooks Converter
 - **[Open Courses](/open-course-hub)** – Open Course Hub and Open MultiCourse Hub, with the Common Cartridge Converter
 
