@@ -4,6 +4,14 @@ subtitle: 'A DIY Path from Plain Markdown or Pressbooks'
 cover_image: open-book-sky.jpg
 cover_image_alt: 'An open book floating against a blue sky, its pages fanned out'
 cover_image_layout: small
+metadata:
+    description: 'A short guide to Open Publishing Space, a free, open-source Grav 2 website starter for web-first open textbooks and guides – plus a free Pressbooks Converter.'
+    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/03.open-publishing-space/og-image.jpg'
+    'og:image:alt': 'An open book floating against a blue sky, its pages fanned out'
+    'og:title': 'Open Textbooks and Guides: A DIY Path from Plain Markdown or Pressbooks'
+    'og:description': 'A short guide to Open Publishing Space, a free, open-source Grav 2 website starter for web-first open textbooks and guides – plus a free Pressbooks Converter.'
+    'og:type': website
+    'twitter:card': summary_large_image
 authors: 'Paul Hibbitts'
 edition: 'First Edition, 2026'
 last_updated: '27-10-2026 00:00'
