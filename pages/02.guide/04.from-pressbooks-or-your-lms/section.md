@@ -3,6 +3,7 @@ title: 'From Pressbooks or Your LMS'
 section_number: '4'
 description: 'Free converters turn an existing book or course into Markdown pages for either site.'
 child_type: section-page
+side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*"
 ---
 
 Start from what you already have, with two free converters (both in beta) – no Grav installation needed to see what carries over:
