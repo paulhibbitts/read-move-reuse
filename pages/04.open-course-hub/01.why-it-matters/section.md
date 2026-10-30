@@ -15,6 +15,8 @@ Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page in Markdown, on a free site you control.
 [/definition]
 
-Best of all for reuse, anyone can get the Markdown behind any page they're viewing – no access to the source files needed. Markdown has also become the lingua franca of generative AI, for better or worse, making open content as easy for AI tools to work with as it is for people.
+Best of all for reuse, anyone can get the Markdown behind any page they're viewing – no access to the source files needed, and with its callouts, math and diagrams intact, so it opens as it is in [Docsify-This](https://docsify-this.net/?target=_blank) or on GitHub. Markdown has also become the lingua franca of generative AI, for better or worse, making open content as easy for AI tools to work with as it is for people.
 
 Your LMS still has its place – for grades, quizzes and enrolment. An open course site works alongside it, and its pages embed right inside it.
+
+**See it moved:** this same guide also runs, with the same content, on [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-course-hub?target=_blank), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/open-course-hub?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub?target=_blank) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-course-hub?target=_blank).
