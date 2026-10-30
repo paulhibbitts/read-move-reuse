@@ -32,7 +32,7 @@ side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativec
 
 Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere. This short guide introduces Open Course Hub, a free, open-source website starter for open courses organized by modules, and its sibling Open MultiCourse Hub for several courses – plus a free converter that brings in a course from your LMS.
 
-This guide is built with Open Course Hub's sibling, Open Publishing Space – both use the same plain Markdown approach.
+This guide is built with Open Course Hub's twin, Open Publishing Space – both use the same plain Markdown approach.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
