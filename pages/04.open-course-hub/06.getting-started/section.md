@@ -12,10 +12,7 @@ Everything in this guide is **free and open-source**, and you can explore the de
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)
 
 > [!IMPORTANT]
-> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
-
-> [!TIP]
-> Take this whole guide with you – its **full text** link gives every page as one Markdown file.
+> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
 
 With thanks to the authors of the openly licensed course used as an example, for sharing their work in the open 🙏🏻
 

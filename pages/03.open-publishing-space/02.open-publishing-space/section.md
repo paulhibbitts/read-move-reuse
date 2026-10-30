@@ -19,7 +19,7 @@ flowchart LR
 
 Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` to a page's address.
 
-Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on almost any standard PHP web host.
+Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on most PHP web hosts.
 
 [showifembedded]
 > [!TIP]

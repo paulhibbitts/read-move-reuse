@@ -13,7 +13,7 @@ metadata:
     'twitter:card': summary_large_image
 authors: 'Paul Hibbitts'
 edition: 'First Edition, 2026'
-last_updated: '26-10-2026 00:00'
+last_updated: '30-10-2026 00:00'
 section_label: Part
 show_reading_progress: true
 prev_next_position: both
@@ -29,9 +29,12 @@ hide_from_menu: true
 side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
 ---
 
-Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters, built on Grav 2, that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
+Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
 The guide is built with one of them, Open Publishing Space, so many of the features it describes are working on the pages you're reading.
+
+> [!TIP]
+> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
 ===
 

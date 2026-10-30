@@ -38,4 +38,4 @@ Links for going further with Open Course Hub and Open MultiCourse Hub, and with 
 - [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart, built on the Grav Premium Helios theme
 
 > [!NOTE]
-> This page and Topics belong to this guide without being sections of it – any Grav page can, so one site can hold several guides, each with pages like these.
+> This page and Topics belong to this guide without being part of its reading order – so one site can hold several guides, each with pages like these.

@@ -37,4 +37,4 @@ Links for going further with Open Publishing Space, and with Markdown itself.
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart, built on the Grav Premium Helios theme
 
 > [!NOTE]
-> This page and Topics belong to this guide without being sections of it – any Grav page can, so one site can hold several guides, each with pages like these.
+> This page and Topics belong to this guide without being part of its reading order – so one site can hold several guides, each with pages like these.
