@@ -35,7 +35,7 @@ Open course materials are meant to be shared and reused, but they often live ins
 This guide is built with Open Course Hub's sibling, Open Publishing Space – both use the same plain Markdown approach.
 
 > [!TIP]
-> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
+> **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
 ===
 

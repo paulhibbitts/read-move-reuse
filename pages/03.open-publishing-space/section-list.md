@@ -35,7 +35,7 @@ Open textbooks and guides are meant to be reused and remixed, but they often liv
 The guide is built with Open Publishing Space, so many of the features it describes are working on the pages you're reading.
 
 > [!TIP]
-> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
+> **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
 ===
 
