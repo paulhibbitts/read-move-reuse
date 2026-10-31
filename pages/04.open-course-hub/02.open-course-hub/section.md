@@ -6,7 +6,7 @@ child_type: section-page
 side_box: 'Want to jump right in? Download [Open Course Hub](https://getgrav.org/downloads/skeletons?target=_blank#course-hub-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/?target=_blank).'
 ---
 
-A free, open-source website starter for **open courses**, organized by modules and built on the newly released Grav 2 CMS.
+A free, open-source website starter for **open courses**, organized by modules and built on the Grav 2 CMS.
 
 - A module list beside every module page, with Previous and Next
 - Home page reminders that link to this week's and next week's modules

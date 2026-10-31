@@ -9,13 +9,13 @@ side_box: '**See the Markdown behind this page** – [view it now](/open-course-
 
 Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
 
-**Open beyond the LMS:** course materials are often locked inside an LMS – visible only to enrolled students, and harder to reuse next term, share with colleagues or move to another platform. What if every page stayed open and portable?
+**Open beyond the LMS:** course materials often stay inside an LMS – visible only to enrolled students, and harder to reuse next term, share with colleagues or move to another platform. What if every page stayed open and portable?
 
 [definition title="The DIY answer: plain Markdown"]
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page in Markdown, on a free site you control.
 [/definition]
 
-Best of all for reuse, anyone can get the Markdown behind any page they're viewing – no access to the source files needed, and with its callouts, math and diagrams intact, so it opens as it is in [Docsify-This](https://docsify-this.net/?target=_blank) or on GitHub. Markdown has also become the lingua franca of generative AI, for better or worse, making open content as easy for AI tools to work with as it is for people.
+Best of all for reuse, anyone can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/?target=_blank) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
 
 Your LMS still has its place – for grades, quizzes and enrolment. An open course site works alongside it, and its pages embed right inside it.
 

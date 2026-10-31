@@ -6,7 +6,7 @@ child_type: section-page
 side_box: 'Want to jump right in? Download [Open Publishing Space](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank).'
 ---
 
-A free, open-source website starter for sharing **web-first open textbooks and guides** alongside a blog and other pages, built on the newly released Grav 2 CMS.
+A free, open-source website starter for sharing **web-first open textbooks and guides** alongside a blog and other pages, built on the Grav 2 CMS. And being web-first, the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
 
 - Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (come back to this guide's home page to continue where you left off, even partway down a page)
 - One site can hold several guides, each with a card on a Guides page and its own pages in the menu (like this guide's Topics and Resources) – plus site pages like [About](/about)
