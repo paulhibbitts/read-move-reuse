@@ -5,6 +5,7 @@ cover_image: chris-robert-P189JexXzQY-unsplash.jpg
 cover_image_alt: 'A Little Free Library on wheels, with books behind its glass doors'
 cover_image_layout: small
 metadata:
+    description: 'A short guide to two free, open-source Grav 2 website starters that make textbooks, guides and courses open for their readers and their authors.'
     'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/02.guide/og-image.jpg'
     'og:image:alt': 'A Little Free Library on wheels, with books behind its glass doors'
     'og:title': 'Open Textbooks, Guides and Courses: A DIY Path from Plain Markdown, Pressbooks or Your LMS'
