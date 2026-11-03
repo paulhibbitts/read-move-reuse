@@ -10,7 +10,7 @@ A free, open-source website starter for sharing **web-first open textbooks and g
 
 - Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place**
 - One site can hold several guides, each with a card on a Guides page – like this site
-- Pages that are also a presentation, an LMS embed, a printout or Markdown
+- Pages you can read, present like slides, embed in an LMS, print or get as Markdown
 
 ![An Open Publishing Space guide home page, with its cover, Start Reading button, search box and a card for each section](open-publishing-space-guide.jpg)
 
