@@ -19,6 +19,15 @@ side_box: 'Accessibility also depends on the content – see [Improving the Acce
 - **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/?target=_blank), GitHub and other tools with little rework
 - **Reuse built in:** anyone can get the Markdown behind a page, to adapt and share under its open license
 
+Optional: with the free [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync?target=_blank) plugin, every change is saved to a GitHub repository with its full history, and co-authors can suggest edits there.
+
+```mermaid
+flowchart LR
+  A[Edit in Admin 2] --> B[Grav 2 site]
+  B <-->|Git Sync| C[GitHub repository]
+  D[Co-authors on GitHub] --> C
+```
+
 **For whoever runs the site:**
 
 - **Low cost and upkeep:** no build tools, and a standard PHP web host is enough
