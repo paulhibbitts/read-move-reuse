@@ -13,6 +13,13 @@ Everything in this guide is **free and open-source**, and you can explore the de
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
 - **"I want to try editing"** → the read-only Admin 2 demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) and [Open Course Hub](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin)
 
+**Try it in 10 minutes:**
+
+1. **Add** `.md` to any page's address – like [this page as Markdown](/grav-2/getting-started.md?target=_blank)
+2. **Press** ← and → to move through this guide, like slides
+3. **Sign in** to the [read-only Admin 2 demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and open a page to see its Markdown
+4. **Compare** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) with [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions
+
 Then set up your own site:
 
 1. **Download** a starter from [getgrav.org](https://getgrav.org/downloads/skeletons)
@@ -24,6 +31,7 @@ Then set up your own site:
 >
 > - You'll need a PHP web host (PHP 8.3 or newer, no database), and you – or your host – look after the site's updates and backups
 > - Editing is in Markdown – quick to learn, but not a word processor, so some colleagues may need a little help to start (the premium Editor Pro plugin shows formatted text instead)
+> - An open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment
 > - Some Grav 1.7 plugins and themes aren't updated for Grav 2 yet
 > - There's no one-click import from WordPress – existing pages need converting to Markdown ([the usual route](https://getgrav.org/blog/grav-vs-wordpress?target=_blank))
 > - There's no one-click ebook (EPUB or formatted PDF) – pages print cleanly from the browser

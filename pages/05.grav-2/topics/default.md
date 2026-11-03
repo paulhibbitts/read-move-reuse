@@ -50,6 +50,7 @@ Every topic in the guide, from A to Z.
 - [LaTeX Math plugin](/grav-2/meet-grav-2)
 - [Learn2 with Git Sync](/grav-2/resources)
 - [Licensing](/grav-2/why-it-suits-open-education)
+- [LMS, working alongside](/grav-2/getting-started)
 
 ## M
 
@@ -73,6 +74,10 @@ Every topic in the guide, from A to Z.
 
 - [Setting up a site](/grav-2/getting-started)
 - [Skeletons (starters)](/grav-2/open-publishing-space)
+
+## T
+
+- [Try it in 10 minutes](/grav-2/getting-started)
 
 ## W
 
