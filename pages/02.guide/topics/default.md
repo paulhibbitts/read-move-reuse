@@ -62,6 +62,7 @@ Every topic in the guide, from A to Z.
 - [OER attribution](/guide/open-publishing-space)
 - [Open Course Hub 2](/guide/open-course-hub)
 - [Open MultiCourse Hub 2](/guide/open-course-hub)
+- [Open Publishing Course Hub Converter](/guide/from-pressbooks-or-your-lms)
 - [Open Publishing Space 2](/guide/open-publishing-space)
 
 ## P

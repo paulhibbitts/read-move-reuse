@@ -19,3 +19,5 @@ Already have a book in Pressbooks? Start from it, with a free converter (in beta
 *A module's intro page on a phone: its text and images, then its Learning Outcomes as a Learning Objectives box*
 
 Example (a raw conversion, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/)
+
+Already in Docsify? The [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) moves guides between Docsify and Open Publishing Space, in either direction – see [these guides on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-publishing-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides).
