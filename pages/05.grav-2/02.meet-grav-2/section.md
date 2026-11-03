@@ -24,6 +24,7 @@ What's new in Grav 2:
 
 - **Admin 2** – a modern editing panel, rebuilt from scratch, for writing and organizing pages in the browser
 - **A Markdown version of every page** – add `.md` to a page's address to get its Markdown ([Grav 2.1 release notes](https://getgrav.org/blog/grav-2-1-released?target=_blank))
+- **A secure, up-to-date foundation** – every finding from a [security scan in October 2026](https://getgrav.org/blog/oss-scanner-security-releases?target=_blank) was fixed and released
 - **Faster under the hood, and still just files** – [twice as fast in Grav 2.2](https://getgrav.org/blog/grav-2-2-released?target=_blank), by the Grav team's measurements, and a site that's simple to back up, copy and move
 
 ![This page in a browser, beside its Markdown version at the same address with .md added – the same text, with the diagram written as plain text](grav-2-page-and-markdown.webp)
@@ -37,7 +38,8 @@ See this page [as Markdown](/grav-2/meet-grav-2.md?target=_blank), and compare t
 What Grav has always had:
 
 - **Free and open source** (MIT license), with over 15,000 stars on [GitHub](https://github.com/getgrav/grav?target=_blank)
-- **Themes and plugins** for search, feeds, forms, several languages and more
+- **Themes and plugins** for search, feeds, forms and more
+- **Several languages** – multilingual sites built in, and Admin 2 can [translate every string the site shows](https://getgrav.org/blog/grav-2-admin-2-1?target=_blank)
 - **Runs on a standard web host** – no special server setup
 
 And this is Admin 2, where pages like this one are organized, written and previewed:

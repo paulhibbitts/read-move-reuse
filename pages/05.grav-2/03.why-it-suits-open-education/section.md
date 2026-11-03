@@ -35,6 +35,19 @@ flowchart LR
 - **Low cost and upkeep:** no build tools, and a standard PHP web host is enough
 - **Compared with WordPress:** pages are Markdown files rather than database entries and blocks, so there are fewer moving parts to keep updated
 
+**How it compares** with other popular tools for open textbooks, guides and courses:
+
+| | Grav 2 | Pressbooks | Static site tools (Quarto, Jupyter Book, Jekyll) |
+|---|---|---|---|
+| Content stored as | Markdown files | A database (it's built on WordPress) | Markdown files |
+| Editing | In the browser (Admin 2), or any editor | In the browser | Edit files, then run a build |
+| Hosting | Any PHP web host | Hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
+| Markdown of every page | Built in | Not built in | The source files themselves |
+| EPUB and formatted PDF | No – pages print cleanly | Yes – a real strength | Yes, especially Quarto |
+| Books and courses from the same content | Yes, with the free starters | Books | Possible, with setup |
+
+Pick Pressbooks if you need EPUB or print-ready PDF, or a static site tool if you're comfortable with Git and want free hosting.
+
 ![This page on a phone, twice: in light mode and in dark mode, each with a Previous and Next bar at the bottom of the screen](grav-2-phone-light-dark.webp)
 
 *This page on a phone, in light and dark mode*
