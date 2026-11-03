@@ -23,6 +23,8 @@ Optional: with the free [Git Sync](https://github.com/trilbymedia/grav-plugin-gi
 
 ```mermaid
 flowchart LR
+  accTitle: Working with Git Sync
+  accDescr: Edits in Admin 2 update the Grav 2 site, which Git Sync keeps in step with a GitHub repository, where co-authors can also make changes.
   A([fa:fa-pen-to-square Edit in Admin 2]) --> B(fa:fa-globe Grav 2 site)
   B <-.->|Git Sync| C(fab:fa-github GitHub repository)
   D([fa:fa-users Co-authors]) --> C

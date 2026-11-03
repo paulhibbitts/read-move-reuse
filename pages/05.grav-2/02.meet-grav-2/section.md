@@ -10,6 +10,8 @@ side_box: 'Grav''s own site, with themes, plugins and downloads: [getgrav.org](h
 
 ```mermaid
 flowchart LR
+  accTitle: How Grav 2 works
+  accDescr: Markdown files, edited in Admin 2 or any editor, go into Grav 2, which produces web pages and Markdown versions.
   A[Markdown files] --> B[Grav 2]
   B --> C[Web pages]
   B --> D[Markdown versions]

@@ -24,7 +24,7 @@ Every topic in the guide, from A to Z.
 
 - [Database, none needed](/grav-2/meet-grav-2)
 - [Demos](/grav-2/getting-started)
-- [Docsify-This](/grav-2/why-it-suits-open-education)
+- [Docsify-This](/grav-2/getting-started)
 
 ## E
 
