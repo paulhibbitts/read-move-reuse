@@ -11,7 +11,6 @@ Everything in this guide is **free and open-source**, and you can explore the de
 - **"I want an open home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)
 - **"I teach several courses"** → Open MultiCourse Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
-- **"I want to try editing"** → the read-only Admin 2 demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) and [Open Course Hub](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin)
 
 **Try it in 10 minutes:**
 
