@@ -22,7 +22,8 @@ Then set up your own site:
 > [!IMPORTANT]
 > **Good to know:**
 >
-> - You'll need a PHP web host (PHP 8.3 or newer, no database)
+> - You'll need a PHP web host (PHP 8.3 or newer, no database), and you – or your host – look after the site's updates and backups
+> - Editing is in Markdown – quick to learn, but not a word processor, so some colleagues may need a little help to start
 > - Some Grav 1.7 plugins and themes aren't updated for Grav 2 yet
 > - There's no built-in import from WordPress – existing pages need copying over or converting to Markdown
 > - There's no one-click ebook (EPUB or formatted PDF) – pages print cleanly from the browser

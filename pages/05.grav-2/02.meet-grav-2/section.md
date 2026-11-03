@@ -22,7 +22,7 @@ What's new in Grav 2:
 
 - **Admin 2** – a modern editing panel, rebuilt from scratch, for writing and organizing pages in the browser
 - **A Markdown version of every page** – add `.md` to a page's address to get its Markdown
-- **Faster, and still just files** – quicker loading pages, and a site that's simple to back up, copy and move
+- **Faster under the hood, and still just files** – a site that's simple to back up, copy and move
 
 ![This page in a browser, beside its Markdown version at the same address with .md added – the same text, with the diagram written as plain text](grav-2-page-and-markdown.webp)
 

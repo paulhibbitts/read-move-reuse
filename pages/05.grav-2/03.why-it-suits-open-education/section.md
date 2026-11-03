@@ -16,7 +16,7 @@ side_box: 'Accessibility also depends on the content – see [Improving the Acce
 
 - **Edit your way:** in the browser with Admin 2, or as files with any editor – and with Git, for a full history of every change and help from others
 - **Content that lasts:** plain Markdown files stay readable in any text editor, long after a platform changes
-- **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/?target=_blank), GitHub and other tools with little or no rework
+- **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/?target=_blank), GitHub and other tools with little rework
 - **Reuse built in:** anyone can get the Markdown behind a page, to adapt and share under its open license
 
 **For whoever runs the site:**
