@@ -6,7 +6,7 @@ child_type: section-page
 side_box: 'Grav''s own site, with themes, plugins and downloads: [getgrav.org](https://getgrav.org/?target=_blank).'
 ---
 
-[Grav](https://getgrav.org/?target=_blank) is a free, open-source **flat-file CMS** – a website system that stores content as plain Markdown files instead of a database. Grav 2 is its new version, now a stable release.
+[Grav](https://getgrav.org/?target=_blank) is a free, open-source **flat-file CMS** – a website system that stores content as plain Markdown files instead of a database. Grav 2 is its new version, now a [stable release](https://getgrav.org/blog/grav-2-stable-released?target=_blank).
 
 ```mermaid
 flowchart LR
@@ -21,8 +21,8 @@ This diagram is written as plain text, with the free [Mermaid](https://hibbittsd
 What's new in Grav 2:
 
 - **Admin 2** – a modern editing panel, rebuilt from scratch, for writing and organizing pages in the browser
-- **A Markdown version of every page** – add `.md` to a page's address to get its Markdown
-- **Faster under the hood, and still just files** – a site that's simple to back up, copy and move
+- **A Markdown version of every page** – add `.md` to a page's address to get its Markdown ([Grav 2.1 release notes](https://getgrav.org/blog/grav-2-1-released?target=_blank))
+- **Faster under the hood, and still just files** – [twice as fast in Grav 2.2](https://getgrav.org/blog/grav-2-2-released?target=_blank), by the Grav team's measurements, and a site that's simple to back up, copy and move
 
 ![This page in a browser, beside its Markdown version at the same address with .md added – the same text, with the diagram written as plain text](grav-2-page-and-markdown.webp)
 
@@ -43,6 +43,8 @@ What Grav has always had:
 | Block editor | Markdown, with shortcodes for extras like callouts and embeds |
 | Database | None – just files |
 | A backup plugin | Copy the site's folder |
+
+For a detailed look, including when WordPress is the better pick, see [Grav vs WordPress: An Honest Comparison](https://getgrav.org/blog/grav-vs-wordpress?target=_blank) by Grav's creator.
 
 [hideifembedded]
 Try the Admin 2 panel: read-only demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and [Open Course Hub](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin?target=_blank) (the sign-in details are on their sign-in screens).

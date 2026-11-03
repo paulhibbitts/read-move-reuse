@@ -13,6 +13,7 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 - [Grav Learn](https://learn.getgrav.org/) – the documentation for Grav
 - [Grav on GitHub](https://github.com/getgrav/grav) – the source code, and where to report issues
 - [Grav forum](https://getgrav.org/forum) and [Grav Discord](https://chat.getgrav.org/) – the community, for questions and help
+- From the Grav blog: [Grav 2.0 Released!](https://getgrav.org/blog/grav-2-stable-released) · [Grav 2.1: Every Page Speaks Markdown](https://getgrav.org/blog/grav-2-1-released) · [Grav 2.2: 2x Faster](https://getgrav.org/blog/grav-2-2-released) · [Grav vs WordPress: An Honest Comparison](https://getgrav.org/blog/grav-vs-wordpress)
 
 ## The Projects
 

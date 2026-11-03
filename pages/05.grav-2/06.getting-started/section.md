@@ -23,9 +23,9 @@ Then set up your own site:
 > **Good to know:**
 >
 > - You'll need a PHP web host (PHP 8.3 or newer, no database), and you – or your host – look after the site's updates and backups
-> - Editing is in Markdown – quick to learn, but not a word processor, so some colleagues may need a little help to start
+> - Editing is in Markdown – quick to learn, but not a word processor, so some colleagues may need a little help to start (the premium Editor Pro plugin shows formatted text instead)
 > - Some Grav 1.7 plugins and themes aren't updated for Grav 2 yet
-> - There's no built-in import from WordPress – existing pages need copying over or converting to Markdown
+> - There's no one-click import from WordPress – existing pages need converting to Markdown ([the usual route](https://getgrav.org/blog/grav-vs-wordpress?target=_blank))
 > - There's no one-click ebook (EPUB or formatted PDF) – pages print cleanly from the browser
 > - Grav extras like definition and objectives boxes are shortcodes that other tools would need converted
 
