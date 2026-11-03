@@ -16,6 +16,8 @@ flowchart LR
   E[Admin 2 or any editor] --> A
 ```
 
+This diagram is written as plain text, with the free [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html?target=_blank#mermaid-plugin) plugin – and math works the same way with [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html?target=_blank#latex-math-plugin), like $E = mc^2$.
+
 What's new in Grav 2:
 
 - **Admin 2** – a modern editing panel, rebuilt from scratch, for writing and organizing pages in the browser

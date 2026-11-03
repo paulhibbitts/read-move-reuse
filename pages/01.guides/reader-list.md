@@ -10,4 +10,4 @@ Three short guides from the same source – pick the one that fits: [Open Textbo
 
 ===
 
-Originally prepared for the ETUG Fall Workshop 2026.
+The first three guides were originally prepared for the ETUG Fall Workshop 2026.

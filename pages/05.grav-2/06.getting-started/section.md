@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started'
-section_number: '7'
+section_number: '6'
 description: 'Pick the starter for your book or course, try it with nothing to install – plus the limits to know first.'
 child_type: section-page
 ---

@@ -12,7 +12,7 @@ Every topic in the guide, from A to Z.
 
 - [Accessibility](/grav-2/why-it-suits-open-education)
 - [Admin 2](/grav-2/meet-grav-2)
-- [Admin2 Site ReadMe plugin](/grav-2/plugins-and-tools)
+- [Admin2 Site ReadMe plugin](/grav-2/open-publishing-space)
 
 ## C
 
@@ -38,24 +38,24 @@ Every topic in the guide, from A to Z.
 ## G
 
 - [Git](/grav-2/why-it-suits-open-education)
-- [Git Page Link plugin](/grav-2/plugins-and-tools)
+- [Git Page Link plugin](/grav-2/resources)
 
 ## H
 
-- [Helios](/grav-2/plugins-and-tools)
+- [Helios](/grav-2/resources)
 - [Hosting (PHP, no database)](/grav-2/getting-started)
 
 ## L
 
-- [LaTeX Math plugin](/grav-2/plugins-and-tools)
-- [Learn2 with Git Sync](/grav-2/plugins-and-tools)
+- [LaTeX Math plugin](/grav-2/meet-grav-2)
+- [Learn2 with Git Sync](/grav-2/resources)
 - [Licensing](/grav-2/why-it-suits-open-education)
 
 ## M
 
 - [Markdown](/grav-2/why-it-matters)
 - [Markdown version of every page](/grav-2/meet-grav-2)
-- [Mermaid plugin](/grav-2/plugins-and-tools)
+- [Mermaid plugin](/grav-2/meet-grav-2)
 
 ## O
 

@@ -19,7 +19,8 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 - **Open Publishing Space 2** – [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site) · [guide](/open-publishing-space)
 - **Open Course Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site) · [guide](/open-course-hub)
 - **Open MultiCourse Hub 2** – [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)
-- **Plugins and Learn2 with Git Sync** – [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html)
+- **Learn2 with Git Sync** – an open documentation site: [demo](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)
+- **Free plugins** – Mermaid, LaTeX Math, Admin2 Site ReadMe and Git Page Link: [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html)
 - **Converters** – [all converters](https://grav-converters.hibbittsdesign.org/)
 - **Every project** – [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html)
 
@@ -32,6 +33,7 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 ## Other Options
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
+- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) and [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – premium counterparts, built on Helios, a paid theme sold by the Grav team at getgrav.org (its sales help fund Grav CMS development)
 
 > [!NOTE]
 > This page and Topics belong to this guide without being part of its reading order – so one site can hold several guides, each with pages like these.

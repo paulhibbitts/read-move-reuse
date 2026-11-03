@@ -5,7 +5,7 @@ menu: 'About'
 
 # About This Site
 
-This site was originally prepared for the ETUG Fall Workshop 2026. It holds four short guides to free, open-source DIY tools for open textbooks, guides and courses:
+This site holds four short guides to free, open-source DIY tools for open textbooks, guides and courses – the first three were originally prepared for the ETUG Fall Workshop 2026:
 
 - **[Open Textbooks, Guides and Courses](/guide)** – both website starters, plus the converters that bring in a Pressbooks book or LMS course
 - **[Open Textbooks and Guides](/open-publishing-space)** – Open Publishing Space on its own, with the Pressbooks Converter
