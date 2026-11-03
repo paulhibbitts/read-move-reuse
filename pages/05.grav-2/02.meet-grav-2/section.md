@@ -40,7 +40,11 @@ What Grav has always had:
 - **Themes and plugins** for search, feeds, forms, several languages and more
 - **Runs on a standard web host** – no special server setup
 
-And this is Admin 2, where pages like this one are written and previewed:
+And this is Admin 2, where pages like this one are organized, written and previewed:
+
+![The Admin 2 Pages screen, showing this guide's six parts plus Topics and Resources in columns, with this page selected and its details beside them](grav-2-admin-2-pages.webp)
+
+*Admin 2: this guide's pages*
 
 ![The Admin 2 editor with this page open, showing its What's new list as Markdown, beside a Page Info panel](grav-2-admin-2-editor.webp)
 
