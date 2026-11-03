@@ -26,9 +26,13 @@ What's new in Grav 2:
 - **A Markdown version of every page** – add `.md` to a page's address to get its Markdown ([Grav 2.1 release notes](https://getgrav.org/blog/grav-2-1-released?target=_blank))
 - **Faster under the hood, and still just files** – [twice as fast in Grav 2.2](https://getgrav.org/blog/grav-2-2-released?target=_blank), by the Grav team's measurements, and a site that's simple to back up, copy and move
 
-![Admin 2, twice: the Pages screen showing this guide's six parts plus Topics and Resources in columns, and the editor with this page open, its Markdown text beside a Page Info panel](grav-2-admin-2.webp)
+![The Admin 2 Pages screen, showing this guide's six parts plus Topics and Resources in columns, with this page selected](grav-2-admin-2-pages.webp)
 
-*Admin 2: this guide's pages, and this page open in the editor*
+*Admin 2: this guide's pages*
+
+![The Admin 2 editor with this page open, showing its What's new list as Markdown, beside a Page Info panel](grav-2-admin-2-editor.webp)
+
+*This page, open in the Admin 2 editor*
 
 ![This page in a browser, beside its Markdown version at the same address with .md added – the same text, with the diagram written as plain text](grav-2-page-and-markdown.webp)
 
