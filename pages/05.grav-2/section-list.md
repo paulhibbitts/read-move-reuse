@@ -5,11 +5,11 @@ cover_image: leaves-purple-wall.jpg
 cover_image_alt: 'Long green leaves against a bright purple wall'
 cover_image_layout: small
 metadata:
-    description: 'A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters, plugins and converters built on it.'
+    description: 'A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters and converters built on it.'
     'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/05.grav-2/og-image.jpg'
     'og:image:alt': 'Long green leaves against a bright purple wall'
     'og:title': 'Grav 2 for Open Education and Publishing: A DIY Platform You Own, in Plain Markdown'
-    'og:description': 'A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters, plugins and converters built on it.'
+    'og:description': 'A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters and converters built on it.'
     'og:type': website
     'twitter:card': summary_large_image
 authors: 'Paul Hibbitts'
@@ -30,6 +30,6 @@ hide_from_menu: true
 side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
 ---
 
-Open textbooks, guides and courses are meant to be shared and reused, but the platforms they live on don't always make that easy for their authors. This short guide introduces Grav 2, a free, open-source website system that keeps every page in plain Markdown on a site you control – and shows why it suits open education and publishing, with free starters, plugins and converters built on it.
+Open textbooks, guides and courses are meant to be shared and reused, but the platforms they live on don't always make that easy for their authors. This short guide introduces Grav 2, a free, open-source website system that keeps every page in plain Markdown on a site you control – and shows why it suits open education and publishing, with free starters and converters built on it.
 
 This guide is one of four on this site, which is itself a Grav 2 site built with Open Publishing Space – see the other [guides](/).
