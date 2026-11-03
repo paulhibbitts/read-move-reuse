@@ -23,9 +23,9 @@ Optional: with the free [Git Sync](https://github.com/trilbymedia/grav-plugin-gi
 
 ```mermaid
 flowchart LR
-  A[Edit in Admin 2] --> B[Grav 2 site]
-  B <-->|Git Sync| C[GitHub repository]
-  D[Co-authors on GitHub] --> C
+  A([Edit in Admin 2]) --> B(Grav 2 site)
+  B <-.->|Git Sync| C(GitHub repository)
+  D([Co-authors on GitHub]) --> C
 ```
 
 **For whoever runs the site:**
