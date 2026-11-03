@@ -17,6 +17,7 @@ Every topic in the guide, from A to Z.
 ## C
 
 - [Community and help](/grav-2/resources)
+- [Comparison with other tools](/grav-2/why-it-suits-open-education)
 - [Common Cartridge Converter](/grav-2/open-course-hub)
 - [Converters](/grav-2/open-publishing-space)
 
@@ -48,6 +49,7 @@ Every topic in the guide, from A to Z.
 
 ## L
 
+- [Languages (multilingual sites)](/grav-2/meet-grav-2)
 - [LaTeX Math plugin](/grav-2/meet-grav-2)
 - [Learn2 with Git Sync](/grav-2/resources)
 - [Licensing](/grav-2/why-it-suits-open-education)
@@ -68,13 +70,16 @@ Every topic in the guide, from A to Z.
 
 ## P
 
+- [Pressbooks, compared](/grav-2/why-it-suits-open-education)
 - [Pressbooks Converter](/grav-2/open-publishing-space)
 - [Privacy](/grav-2/why-it-suits-open-education)
 
 ## S
 
+- [Security](/grav-2/meet-grav-2)
 - [Setting up a site](/grav-2/getting-started)
 - [Skeletons (starters)](/grav-2/open-publishing-space)
+- [Static site tools (Quarto, Jupyter Book, Jekyll)](/grav-2/why-it-suits-open-education)
 
 ## T
 
