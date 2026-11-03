@@ -1,0 +1,38 @@
+---
+title: 'Why It Suits Open Education and Publishing'
+section_number: '3'
+description: 'What Grav 2 offers readers and learners, authors, and whoever runs the site.'
+child_type: section-page
+side_box: 'Accessibility also depends on the content – see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/?target=_blank).'
+---
+
+**For readers and learners:**
+
+- **Accessible reading:** themes can offer keyboard navigation, light and dark modes and clean printed pages – see the [Accessibility](/guide/accessibility) part of the Open Textbooks, Guides and Courses guide
+- **Privacy:** content stays on a site you control, with no third-party tracking built in
+- **Open licensing:** a license and attribution can be shown on every page, as on this guide
+
+**For authors:**
+
+- **Edit your way:** in the browser with Admin 2, or as files with any editor – and with Git, for a full history of every change and help from others
+- **Content that lasts:** plain Markdown files stay readable in any text editor, long after a platform changes
+- **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/?target=_blank), GitHub and other tools with little or no rework
+- **Reuse built in:** anyone can get the Markdown behind a page, to adapt and share under its open license
+
+**For whoever runs the site:**
+
+- **Low cost and upkeep:** no build tools, and a standard PHP web host is enough
+- **Compared with WordPress:** pages are Markdown files rather than database entries and blocks, so there are fewer moving parts to keep updated
+
+![This page on a phone, twice: in light mode and in dark mode, each with a Previous and Next bar at the bottom of the screen](grav-2-phone-light-dark.webp)
+
+*This page on a phone, in light and dark mode*
+
+[hideifembedded]
+Try it on this site: press → for the next page, **/** to search, switch to dark mode (top right), or open print preview.
+
+**See it moved:** this site's [Open Textbooks, Guides and Courses](/guide) guide also runs, with the same content, on [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide?target=_blank), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/guide?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide?target=_blank) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank).
+[/hideifembedded]
+
+> [!TIP]
+> **A domain of one's own:** because a Grav 2 site is just a folder of files, it's a good fit for personal or institutional web hosting – your content isn't tied to a single platform or host.
