@@ -30,6 +30,10 @@ What's new in Grav 2:
 
 *This page, and its Markdown version*
 
+[hideifembedded]
+See this page [as Markdown](/grav-2/meet-grav-2.md?target=_blank), and compare the diagram with the text that draws it.
+[/hideifembedded]
+
 What Grav has always had:
 
 - **Free and open source** (MIT license), with over 15,000 stars on [GitHub](https://github.com/getgrav/grav?target=_blank)
@@ -46,6 +50,10 @@ And this is Admin 2, where pages like this one are organized and written:
 
 *This page, open in the Admin 2 editor*
 
+[hideifembedded]
+Try the Admin 2 panel: read-only demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and [Open Course Hub](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin?target=_blank) (the sign-in details are on their sign-in screens).
+[/hideifembedded]
+
 **Coming from WordPress?** Much of it will feel familiar:
 
 | In WordPress | In Grav 2 |
@@ -57,9 +65,3 @@ And this is Admin 2, where pages like this one are organized and written:
 | A backup plugin | Copy the site's folder |
 
 For a detailed look, including when WordPress is the better pick, see [Grav vs WordPress: An Honest Comparison](https://getgrav.org/blog/grav-vs-wordpress?target=_blank) by Grav's creator.
-
-[hideifembedded]
-Try the Admin 2 panel: read-only demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and [Open Course Hub](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin?target=_blank) (the sign-in details are on their sign-in screens).
-
-See this page [as Markdown](/grav-2/meet-grav-2.md?target=_blank), and compare the diagram with the text that draws it.
-[/hideifembedded]
