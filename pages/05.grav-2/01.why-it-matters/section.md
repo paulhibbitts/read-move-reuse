@@ -17,7 +17,7 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **A site you own:** Grav 2 keeps every page as a Markdown file in a folder, on a web host you choose. Copy the folder, and you have the whole site.
 
-No slides needed: this one guide is also a presentation (← and → move between pages), an LMS embed, a printout or Markdown – all from a single source. Write once, use anywhere.
+**One guide, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use anywhere.
 
 [hideifembedded]
 See this page: [as Markdown](/grav-2/why-it-matters.md?target=_blank) · [embedded, as in an LMS](/grav-2/why-it-matters?embedded=true&target=_blank)

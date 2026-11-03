@@ -19,6 +19,6 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **Reuse anywhere:** anyone can get the Markdown behind any page they're viewing, with its callouts, math and diagrams intact – so it opens as it is in [Docsify-This](https://docsify-this.net/?target=_blank) or on GitHub.
 
-No slides needed: this one guide works as a presentation (← and → move between pages), a web page to read at your own pace, an LMS embed, a printout or Markdown – all from a single source. Write once, use anywhere.
+**One guide, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use anywhere.
 
 **See it moved:** this same guide also runs, with the same content, on [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide?target=_blank), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/guide?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide?target=_blank) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank).
