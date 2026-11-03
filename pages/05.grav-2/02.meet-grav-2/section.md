@@ -48,11 +48,11 @@ And this is Admin 2, where pages like this one are organized, written and previe
 
 *Admin 2: this guide's pages*
 
-![The Admin 2 editor with this page open, showing its What's new list as Markdown, beside a Page Info panel](grav-2-admin-2-editor.webp)
+![The Admin 2 editor with this page open, showing its opening paragraph and diagram as Markdown, beside a Page Info panel](grav-2-admin-2-editor.webp)
 
 *This page, open in the Admin 2 editor*
 
-![Admin 2's Page Preview window, showing this page's What's new list formatted as readers see it, with the guide's sidebar beside it](grav-2-admin-2-preview.webp)
+![Admin 2's Page Preview window, showing this page's title, opening paragraph and diagram as readers see them, with the guide's sidebar beside them](grav-2-admin-2-preview.webp)
 
 *The same page in Admin 2's Page Preview*
 
