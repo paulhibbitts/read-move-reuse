@@ -26,14 +26,6 @@ What's new in Grav 2:
 - **A Markdown version of every page** – add `.md` to a page's address to get its Markdown ([Grav 2.1 release notes](https://getgrav.org/blog/grav-2-1-released?target=_blank))
 - **Faster under the hood, and still just files** – [twice as fast in Grav 2.2](https://getgrav.org/blog/grav-2-2-released?target=_blank), by the Grav team's measurements, and a site that's simple to back up, copy and move
 
-![The Admin 2 Pages screen, showing this guide's six parts plus Topics and Resources in columns, with this page selected and its details beside them](grav-2-admin-2-pages.webp)
-
-*Admin 2: this guide's pages*
-
-![The Admin 2 editor with this page open, showing its What's new list as Markdown, beside a Page Info panel](grav-2-admin-2-editor.webp)
-
-*This page, open in the Admin 2 editor*
-
 ![This page in a browser, beside its Markdown version at the same address with .md added – the same text, with the diagram written as plain text](grav-2-page-and-markdown.webp)
 
 *This page, and its Markdown version*
@@ -43,6 +35,16 @@ What Grav has always had:
 - **Free and open source** (MIT license), with over 15,000 stars on [GitHub](https://github.com/getgrav/grav?target=_blank)
 - **Themes and plugins** for search, feeds, forms, several languages and more
 - **Runs on a standard web host** – no special server setup
+
+And this is Admin 2, where pages like this one are organized and written:
+
+![The Admin 2 Pages screen, showing this guide's six parts plus Topics and Resources in columns, with this page selected and its details beside them](grav-2-admin-2-pages.webp)
+
+*Admin 2: this guide's pages*
+
+![The Admin 2 editor with this page open, showing its What's new list as Markdown, beside a Page Info panel](grav-2-admin-2-editor.webp)
+
+*This page, open in the Admin 2 editor*
 
 **Coming from WordPress?** Much of it will feel familiar:
 
