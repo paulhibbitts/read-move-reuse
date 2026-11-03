@@ -1,7 +1,7 @@
 ---
 title: 'Why It Suits Open Education and Publishing'
 section_number: '3'
-description: 'What Grav 2 offers readers and learners, authors, and whoever runs the site.'
+description: 'What Grav 2 offers readers and learners, authors, and whoever runs the site – and how it compares.'
 child_type: section-page
 side_box: 'Accessibility also depends on the content – see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/?target=_blank).'
 ---
