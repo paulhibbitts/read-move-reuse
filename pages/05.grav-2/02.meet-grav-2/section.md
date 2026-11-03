@@ -40,15 +40,15 @@ What Grav has always had:
 - **Themes and plugins** for search, feeds, forms, several languages and more
 - **Runs on a standard web host** – no special server setup
 
-And this is Admin 2, where pages like this one are organized and written:
-
-![The Admin 2 Pages screen, showing this guide's six parts plus Topics and Resources in columns, with this page selected and its details beside them](grav-2-admin-2-pages.webp)
-
-*Admin 2: this guide's pages*
+And this is Admin 2, where pages like this one are written and previewed:
 
 ![The Admin 2 editor with this page open, showing its What's new list as Markdown, beside a Page Info panel](grav-2-admin-2-editor.webp)
 
 *This page, open in the Admin 2 editor*
+
+![Admin 2's Page Preview window, showing this page's What's new list formatted as readers see it, with the guide's sidebar beside it](grav-2-admin-2-preview.webp)
+
+*The same page in Admin 2's Page Preview*
 
 [hideifembedded]
 Try the Admin 2 panel: read-only demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and [Open Course Hub](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin?target=_blank) (the sign-in details are on their sign-in screens).
