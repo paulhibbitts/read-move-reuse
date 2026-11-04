@@ -71,7 +71,7 @@ Every topic in the guide, from A to Z.
 
 ## P
 
-- [Pressbooks and other book platforms, compared](/grav-2/why-it-suits-open-education)
+- [Pressbooks and WordPress-based book tools, compared](/grav-2/why-it-suits-open-education)
 - [Pressbooks Converter](/grav-2/open-publishing-space)
 - [Privacy](/grav-2/why-it-suits-open-education)
 

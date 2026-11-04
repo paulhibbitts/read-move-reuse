@@ -37,18 +37,18 @@ flowchart LR
 - **Low cost and upkeep:** no build tools, and a standard PHP web host is enough
 - **Compared with WordPress:** pages are Markdown files rather than database entries and blocks, so there are fewer moving parts to keep updated
 
-**How it compares** with other popular tools for open textbooks, guides and courses – book platforms such as Pressbooks, and static site tools such as Quarto, Jupyter Book and Jekyll:
+**How it compares** with other popular tools for open textbooks, guides and courses – WordPress-based book tools such as Pressbooks, and static site tools such as Quarto, Jupyter Book and Jekyll:
 
-| | Grav 2 | Book platforms | Static site tools |
+| | Grav 2 | WordPress-based (such as Pressbooks) | Static site tools |
 |---|---|---|---|
-| Content stored as | Markdown files | A database (it's built on WordPress) | Markdown files |
+| Content stored as | Markdown files | A database | Markdown files |
 | Editing | In the browser (Admin 2), or any editor | In the browser | Edit files, then run a build |
-| Hosting | A PHP web host (PHP 8.3 or newer) | Hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
+| Hosting | A PHP web host (PHP 8.3 or newer) | A hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
 | Markdown of every page | Built in | Not built in | The source files themselves |
 | EPUB and formatted PDF | No – pages print cleanly | Yes – a real strength | Yes, especially Quarto |
 | Books and courses from the same content | Yes, with the free starters | Books | Possible, with setup |
 
-Pick a book platform such as Pressbooks if you need EPUB or print-ready PDF, or a static site tool if you're comfortable with Git and want free hosting.
+Pick a WordPress-based book tool such as Pressbooks if you need EPUB or print-ready PDF, or a static site tool if you're comfortable with Git and want free hosting.
 
 ![This page on a phone, twice: in light mode and in dark mode, each with a Previous and Next bar at the bottom of the screen](grav-2-phone-light-dark.webp)
 
