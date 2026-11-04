@@ -8,7 +8,7 @@ side_box: 'Want to jump right in? Download [Open Publishing Space](https://getgr
 
 A free, open-source website starter for sharing **web-first open textbooks and guides**, alongside a blog and other pages – this site is built with it. Like every Grav starter (a "skeleton"), it comes as Grav 2, a theme and sample content, ready to upload.
 
-- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place**
+- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (pick up where you left off)
 - One site can hold several guides, each with a card on a Guides page – like this site
 - Pages you can read, present like slides, embed in an LMS, print or get as Markdown
 
