@@ -16,7 +16,7 @@ side_box: 'Accessibility also depends on the content – see [Improving the Acce
 
 - **Edit your way:** in the browser with Admin 2, or as files with any editor – and with Git, for a full history of every change and help from others
 - **Content that lasts:** plain Markdown files stay readable in any text editor, long after a platform changes
-- **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/?target=_blank), GitHub and other tools with little rework
+- **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages), GitHub and other tools with little rework
 - **Reuse built in:** anyone can get the Markdown behind a page, to adapt and share under its open license
 
 Optional: with the free [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync?target=_blank) plugin, every change is saved to a GitHub repository with its full history, and co-authors can suggest edits there.
@@ -30,7 +30,7 @@ flowchart LR
   D([fa:fa-users Co-authors]) --> C
 ```
 
-**See it at work:** this site's pages are kept in step with a [public GitHub repository](https://github.com/paulhibbitts/read-move-reuse/tree/main/pages?target=_blank) – see [this page's own file](https://github.com/paulhibbitts/read-move-reuse/blob/main/pages/05.grav-2/03.why-it-suits-open-education/section.md?target=_blank), or [every edit to it](https://github.com/paulhibbitts/read-move-reuse/commits/main/pages/05.grav-2/03.why-it-suits-open-education/section.md?target=_blank).
+**See an example:** this site's pages are in a [public GitHub repository](https://github.com/paulhibbitts/read-move-reuse/tree/main/pages?target=_blank), just as Git Sync would keep them – see [this page's own file](https://github.com/paulhibbitts/read-move-reuse/blob/main/pages/05.grav-2/03.why-it-suits-open-education/section.md?target=_blank), or [every edit to it](https://github.com/paulhibbitts/read-move-reuse/commits/main/pages/05.grav-2/03.why-it-suits-open-education/section.md?target=_blank).
 
 **For whoever runs the site:**
 
