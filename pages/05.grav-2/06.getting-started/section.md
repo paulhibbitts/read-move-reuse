@@ -22,7 +22,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 Then set up your own site:
 
-1. **Download** a starter from [getgrav.org](https://getgrav.org/downloads/skeletons)
+1. **Download** a starter skeleton from [getgrav.org](https://getgrav.org/downloads/skeletons)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account and start writing
 
