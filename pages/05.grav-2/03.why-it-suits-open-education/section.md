@@ -30,6 +30,8 @@ flowchart LR
   D([fa:fa-users Co-authors]) --> C
 ```
 
+**See it at work:** this site's pages are kept in step with a [public GitHub repository](https://github.com/paulhibbitts/read-move-reuse/tree/main/pages?target=_blank), with the [full history of every change](https://github.com/paulhibbitts/read-move-reuse/commits/main/pages?target=_blank).
+
 **For whoever runs the site:**
 
 - **Low cost and upkeep:** no build tools, and a standard PHP web host is enough

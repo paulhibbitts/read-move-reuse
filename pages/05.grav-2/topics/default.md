@@ -40,6 +40,7 @@ Every topic in the guide, from A to Z.
 
 - [Git](/grav-2/why-it-suits-open-education)
 - [Git Sync](/grav-2/why-it-suits-open-education)
+- [GitHub repository for this site](/grav-2/why-it-suits-open-education)
 - [Git Page Link plugin](/grav-2/resources)
 
 ## H
