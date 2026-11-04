@@ -7,11 +7,11 @@ child_type: section-page
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos, try Admin 2 and try the converters with nothing to install:
 
-- **"I want to share an open textbook or guide"** → Open Publishing Space 2: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
-- **"I want an open home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)
-- **"I teach several courses"** → Open MultiCourse Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)
-- **"I just want to publish Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/) – free, with your Markdown files on GitHub or another public address; start from its [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) or [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) template, and the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) can turn it into a Grav site later
-- **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/) Converter
+- **"I want to share an open textbook or guide"** → Open Publishing Space 2: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/?target=_blank) · [download](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site)
+- **"I want an open home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/?target=_blank) · [download](https://getgrav.org/downloads/skeletons?target=_blank#course-hub-site)
+- **"I teach several courses"** → Open MultiCourse Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/?target=_blank) · [download](https://getgrav.org/downloads/skeletons?target=_blank#multicourse-hub-site)
+- **"I just want to publish Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/?target=_blank) – free, with your Markdown files on GitHub or another public address; start from its [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site?target=_blank) or [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site?target=_blank) template, and the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/?target=_blank) can turn it into a Grav site later
+- **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/?target=_blank) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/?target=_blank) Converter
 
 **Try it in 10 minutes:**
 
@@ -22,7 +22,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 Then set up your own site:
 
-1. **Download** a starter skeleton from [getgrav.org](https://getgrav.org/downloads/skeletons)
+1. **Download** a starter skeleton from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account and start writing
 
@@ -39,4 +39,4 @@ Then set up your own site:
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 
-Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
+Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/?target=_blank)
