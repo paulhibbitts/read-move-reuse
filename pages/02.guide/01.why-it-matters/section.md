@@ -17,7 +17,7 @@ This guide shows two free tools that are designed for readers and learners, let 
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs, and it's widely used by other tools, including AI. Keep every page in Markdown, on a free site you control.
 [/definition]
 
-**Reuse anywhere:** anyone can get the Markdown behind any page they're viewing, with its callouts, math and diagrams intact – so it opens as it is in [Docsify-This](https://docsify-this.net/?target=_blank) or on GitHub.
+**Reuse anywhere:** anyone can get the Markdown behind any page they're viewing, with its callouts, math and diagrams intact – so it opens as it is in [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or on GitHub.
 
 **One guide, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use anywhere.
 

@@ -5,7 +5,7 @@ description: 'Pick the starter for your book or course – plus the trade-offs t
 child_type: section-page
 ---
 
-Everything in this guide is **free and open-source**:
+All the starters and converters in this guide are **free and open-source**:
 
 - **"I want to share an open textbook or guide"** → Open Publishing Space 2: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
 - **"I want an open home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)

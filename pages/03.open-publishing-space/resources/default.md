@@ -35,7 +35,7 @@ Links for going further with Open Publishing Space, and with Markdown itself.
 ## Other Options
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
-- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart, built on the Grav Premium Helios theme
+- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart, built on Helios, a paid theme sold by the Grav team at getgrav.org – its sales help fund Grav CMS development
 
 > [!NOTE]
 > This page and Topics belong to this guide without being part of its reading order – so one site can hold several guides, each with pages like these.

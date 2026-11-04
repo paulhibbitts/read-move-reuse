@@ -5,7 +5,7 @@ description: 'Explore the demos and try the converter, with nothing to install �
 child_type: section-page
 ---
 
-Everything in this guide is **free and open-source**, and you can explore the demos and try the converter with nothing to install:
+All the starters and converters in this guide are **free and open-source**, and you can explore the demos and try the converter with nothing to install:
 
 - **"I want an open home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)
 - **"I teach several courses"** → Open MultiCourse Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)

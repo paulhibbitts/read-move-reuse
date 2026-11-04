@@ -35,7 +35,10 @@ Links for going further with the projects in the guide, and with Markdown itself
 ## Other Options
 
 - [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
-- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) and [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – premium counterparts, built on the Grav Premium Helios theme
+- [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart to Open Publishing Space, for open textbooks and guides
+- [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Hub, for open courses
+
+Both are built on Helios, a paid theme sold by the Grav team at getgrav.org – its sales help fund Grav CMS development.
 
 > [!NOTE]
 > This page and Topics belong to this guide without being part of its reading order – so one site can hold several guides, each with pages like these.

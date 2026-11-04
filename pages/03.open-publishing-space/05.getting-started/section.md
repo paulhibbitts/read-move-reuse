@@ -5,7 +5,7 @@ description: 'Explore the demo and try the converter, with nothing to install �
 child_type: section-page
 ---
 
-Everything in this guide is **free and open-source**, and you can explore the demo and try the converter with nothing to install:
+All the starters and converters in this guide are **free and open-source**, and you can explore the demo and try the converter with nothing to install:
 
 - **"I want to share an open textbook or guide"** → Open Publishing Space 2: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
 - **"I already have a Pressbooks book"** → the [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)
