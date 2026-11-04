@@ -16,9 +16,9 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (
 
 Teaching several courses? Its sibling, **Open MultiCourse Hub 2**, gives each one its own course site, all in a single install.
 
-![An Open Course Hub module page, with the module list beside it showing the current module's sections](open-course-hub-module.webp)
+![An Open Course Hub home page, with an Important notice, What's Happening This Week linking to the current module, reminders with due dates, and Canvas LMS links beside them](open-course-hub-home.webp)
 
-*A module page, from the Open Course Hub demo*
+*A course home page, from the Open Course Hub demo*
 
 Already have a course in your LMS? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 
