@@ -3,7 +3,7 @@ title: 'Meet Grav 2'
 section_number: '2'
 description: 'A free, open-source flat-file CMS: Markdown files in, a website out – no database.'
 child_type: section-page
-side_box: 'Grav''s own site, with themes, plugins and downloads: [getgrav.org](https://getgrav.org/?target=_blank).'
+side_box: 'Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) (the sign-in details are on its sign-in screen).'
 ---
 
 [Grav](https://getgrav.org/?target=_blank) is a free, open-source **flat-file CMS** – a website system that stores content as plain Markdown files instead of a database. Grav 2 is its new version, now a [stable release](https://getgrav.org/blog/grav-2-stable-released?target=_blank).
