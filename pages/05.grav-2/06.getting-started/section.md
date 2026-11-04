@@ -17,7 +17,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 1. **Add** `.md` to any page's address – like [this page as Markdown](/grav-2/getting-started.md?target=_blank)
 2. **Press** ← and → to move through this guide, like slides
-3. **Sign in** to the [read-only Admin 2 demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and open a page to see its Markdown
+3. **Sign in** to [this site's read-only Admin 2 demo](https://try.hibbittsdesign.org/read-move-reuse/admin?target=_blank) and open a page – such as this one – to see its Markdown
 4. **Compare** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) with [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions
 
 Then set up your own site:
