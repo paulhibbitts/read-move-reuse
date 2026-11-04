@@ -41,7 +41,7 @@ flowchart LR
 |---|---|---|---|
 | Content stored as | Markdown files | A database (it's built on WordPress) | Markdown files |
 | Editing | In the browser (Admin 2), or any editor | In the browser | Edit files, then run a build |
-| Hosting | Any PHP web host | Hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
+| Hosting | A PHP web host (PHP 8.3 or newer) | Hosted service, or your own WordPress | Free static hosting, such as GitHub Pages |
 | Markdown of every page | Built in | Not built in | The source files themselves |
 | EPUB and formatted PDF | No – pages print cleanly | Yes – a real strength | Yes, especially Quarto |
 | Books and courses from the same content | Yes, with the free starters | Books | Possible, with setup |
