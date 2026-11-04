@@ -12,6 +12,10 @@ Teaching several courses? **Open MultiCourse Hub 2** gives each one its own cour
 - One site to host, update and back up, however many courses you teach
 - Each course keeps its own address, ready to link from or embed in your LMS
 
+![The Open MultiCourse Hub demo's home page, with a card for each of its three example courses – basic, intermediate and advanced – each with a header image and short description](open-multicourse-hub-courses.webp)
+
+*The Courses page, from the Open MultiCourse Hub demo*
+
 [hideifembedded]
 [See the demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/)
 [/hideifembedded]
