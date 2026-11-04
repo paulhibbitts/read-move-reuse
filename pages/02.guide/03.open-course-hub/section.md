@@ -20,9 +20,9 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (
 > You're reading this page embedded – the same way it would appear inside Canvas, Moodle or Brightspace.
 [/showifembedded]
 
-![An Open Course Hub module page, with the module list beside it showing the current module's sections](open-course-hub-module.webp)
+![An Open Course Hub home page, with an Important notice, What's Happening This Week linking to the current module, reminders with due dates, and Canvas LMS links beside them](open-course-hub-home.webp)
 
-*A module page, from the Open Course Hub demo*
+*A course home page, from the Open Course Hub demo*
 
 ![The Open Course Hub demo on a phone, twice: the course home page with an Important notice and a link to this week's module, and a module page with its sections listed in an open On this page box](open-course-hub-phone.webp)
 
