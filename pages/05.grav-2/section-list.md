@@ -6,7 +6,7 @@ cover_image_alt: 'A potted plant on a windowsill between open green shutters, in
 cover_image_layout: small
 metadata:
     description: 'A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters and converters built on it.'
-    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/05.grav-2/og-image.jpg'
+    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/media/og-grav-2.jpg'
     'og:image:alt': 'A potted plant on a windowsill between open green shutters, in a bright purple wall'
     'og:title': 'Grav 2 for Open Education and Publishing: A DIY Platform You Own, in Plain Markdown'
     'og:description': 'A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters and converters built on it.'

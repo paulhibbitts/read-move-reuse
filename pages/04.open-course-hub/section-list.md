@@ -6,7 +6,7 @@ cover_image_alt: 'A bicycle with a front basket leaning against a yellow wall'
 cover_image_layout: small
 metadata:
     description: 'A short guide to Open Course Hub and Open MultiCourse Hub, free, open-source Grav 2 website starters for open courses – plus a free Common Cartridge Converter for your LMS course.'
-    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/04.open-course-hub/og-image.jpg'
+    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/media/og-open-course-hub.jpg'
     'og:image:alt': 'A bicycle with a front basket leaning against a yellow wall'
     'og:title': 'Open Courses: A DIY Path from Plain Markdown or Your LMS'
     'og:description': 'A short guide to Open Course Hub and Open MultiCourse Hub, free, open-source Grav 2 website starters for open courses – plus a free Common Cartridge Converter for your LMS course.'
