@@ -19,5 +19,3 @@ Already have a book in Pressbooks? Start from it, with a free converter (in beta
 *A module's intro page on a phone: its text and images, then its Learning Outcomes as a Learning Objectives box*
 
 Example (a raw conversion, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/)
-
-**Want to start using Markdown, without a web server?** [Docsify-This](https://docsify-this.net/) shows your Markdown files as web pages, with free hosting such as GitHub – and when you're ready for a full site, the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) makes them the base of an Open Publishing Space site, and can move them back if needed – see [these guides on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-publishing-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides).

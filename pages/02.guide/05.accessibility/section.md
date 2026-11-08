@@ -1,5 +1,5 @@
 ---
-title: 'Accessibility'
+title: 'Accessibility and Privacy'
 section_number: '5'
 description: 'Keyboard, screen reader and reading comfort features, built in.'
 child_type: section-page

@@ -8,7 +8,7 @@ side_box: 'Accessibility also depends on the content – see [Improving the Acce
 
 **For readers and learners:**
 
-- **Accessible reading:** themes can offer keyboard navigation, light and dark modes and clean printed pages – see the [Accessibility](/guide/accessibility) part of the Open Textbooks, Guides and Courses guide
+- **Accessible reading:** themes can offer keyboard navigation, light and dark modes and clean printed pages – see the [Accessibility and Privacy](/guide/accessibility) part of the Open Textbooks, Guides and Courses guide
 - **Privacy:** content stays on a site you control, with no third-party tracking built in
 - **Open licensing:** a license and attribution can be shown on every page, as on this guide
 
