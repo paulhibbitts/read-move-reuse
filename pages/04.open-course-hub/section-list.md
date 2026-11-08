@@ -36,7 +36,3 @@ This guide is built with Open Course Hub's twin, Open Publishing Space – both 
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
-
-===
-
-Originally prepared for the ETUG Fall Workshop 2026.
