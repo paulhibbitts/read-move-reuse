@@ -7,7 +7,7 @@ child_type: section-page
 side_box: '**See the Markdown behind this page** – [view it now](/open-publishing-space/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 
-Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
+Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn [term]Markdown[/term] into websites for open educators and publishers.
 
 **Open for reuse:** open textbooks and guides are meant to be reused and remixed (the [5Rs](https://opencontent.org/definition/?target=_blank) of open content), but they often live inside a single platform – harder to adapt, move or self-host elsewhere. What if every page stayed portable?
 

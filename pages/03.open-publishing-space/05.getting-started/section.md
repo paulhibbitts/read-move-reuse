@@ -13,7 +13,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I teach a course"** → its twin, Open Course Hub 2 – see the [Open Courses](/open-course-hub) guide
 
 > [!IMPORTANT]
-> **Good to know:** this web-first approach keeps things simple, but there's no built-in ebook generation (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
+> **Good to know:** this web-first approach keeps things simple, but there's no built-in ebook generation (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a [term]PHP[/term] web host (PHP 8.3 or newer, no database), and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted.
 
 With thanks to the authors of the openly licensed book used as an example, for sharing their work in the open 🙏🏻
 
