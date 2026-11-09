@@ -4,7 +4,7 @@ A fifth Read, Move, Reuse guide, for after ETUG (Nov 27, 2026). Not part of the 
 
 - **Title:** Docsify for Open Education and Publishing
 - **Subtitle:** Markdown on the Web, with No Web Server Needed
-- **Folder:** `05.docsify` – before the Grav 2 guide (renumbered `06.grav-2`), keeping "Docsify before Grav" on the Guides page; page addresses don't change
+- **Folder:** `06.docsify` – after the Grav 2 guide (`05.grav-2`), with About moved to `07.about` (Paul's order for this site); page addresses don't change
 - **Cover:** one everyday object in daylight on a **green background**, to match Docsify's green (#42B983) – compare candidates in the card crop, as with the other covers
 - **Side Box (home):** "See this guide on Docsify-This", linking its Docsify version
 
