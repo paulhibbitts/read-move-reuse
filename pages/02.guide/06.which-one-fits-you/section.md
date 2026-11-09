@@ -3,6 +3,7 @@ title: 'Which One Fits You?'
 section_number: '6'
 description: 'Pick the starter for your book or course – plus the trade-offs to know first.'
 child_type: section-page
+side_box: '**Share this guide** – [read-move-reuse.hibbittsdesign.org/guide](https://read-move-reuse.hibbittsdesign.org/guide), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
 ---
 
 All the starters and converters in this guide are **free and open-source**:
@@ -14,10 +15,25 @@ All the starters and converters in this guide are **free and open-source**:
 
 Both starters are edited in the browser with Grav's Admin 2 panel, or as Markdown files with any editor or via Git.
 
+[hideifembedded]
+
+**Try it in 5 minutes:**
+
+1. **Add** `.md` to this page's address to see its Markdown
+2. **Press** ← and → to move through this guide, like slides
+3. **Add** `?embedded=true` to this page's address to see it as it would appear in your LMS
+4. **Sign in** to [this site's read-only Admin 2 demo](https://try.hibbittsdesign.org/read-move-reuse/admin?target=_blank) and open a page – such as this one – to see its Markdown
+
+[/hideifembedded]
+
+**See it moved:** this same guide also runs, with the same content, on [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide?target=_blank), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/guide?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide?target=_blank) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank).
+
 > [!IMPORTANT]
 > **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a [term]PHP[/term] web host (PHP 8.3 or newer, no database)[^1], colleagues new to Markdown may need a little help to start, and [term]Grav[/term] extras like definition and objectives boxes are [term name="Shortcode"]shortcodes[/term] that other tools would need converted.
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
+
+**Share this guide:** [read-move-reuse.hibbittsdesign.org/guide](https://read-move-reuse.hibbittsdesign.org/guide) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
 

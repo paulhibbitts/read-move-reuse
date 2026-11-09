@@ -7,8 +7,16 @@ hide_from_menu: true
 show_search_box: true
 ---
 
-Three short guides from the same source – pick the one that fits: [Open Textbooks and Guides](/open-publishing-space) if you write or share open textbooks and guides, [Open Courses](/open-course-hub) if you teach or design courses, or [Open Textbooks, Guides and Courses](/guide) for both. No web server? Start with [Docsify for Open Education and Publishing](/docsify). New to Grav 2? Start with [Grav 2 for Open Education and Publishing](/grav-2).
+Five short guides from the same source – not sure which? Start with the overview, [Open Textbooks, Guides and Courses](/guide).
 
 ===
+
+## Which guide is for you?
+
+- **[Open Textbooks, Guides and Courses](/guide)** – start here if you're not sure: the overview, for books and courses
+- **[Open Textbooks and Guides](/open-publishing-space)** – for you if you write or share open textbooks and guides
+- **[Open Courses](/open-course-hub)** – for you if you teach or design courses
+- **[Grav 2 for Open Education and Publishing](/grav-2)** – for you if you're choosing a platform
+- **[Docsify for Open Education and Publishing](/docsify)** – for you if you'd rather not set up a web server
 
 Open Textbooks and Guides was originally prepared for the ETUG Fall Workshop 2026.

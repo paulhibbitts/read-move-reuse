@@ -7,8 +7,6 @@ child_type: section-page
 side_box: '**Try it now** – paste the address of any public Markdown file into [Docsify-This](https://docsify-this.net/?target=_blank) and see it as a web page.'
 ---
 
-Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
-
 **The barrier:** sharing a few pages of open content shouldn't need a web server, a content management system or a build process – yet that's often what stands between an educator and the web.
 
 [definition title="The DIY answer: plain Markdown"]
@@ -24,3 +22,5 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 - **Reuse:** the Markdown files are the source – anyone can copy, adapt and share them under their open licence
 
 **Honestly:** this is the lightest way to publish, not the most capable – there's no admin panel and no built-in editor. Part 4 covers when a full Grav site is worth it.
+
+**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.

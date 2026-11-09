@@ -7,8 +7,6 @@ child_type: section-page
 side_box: '**See the Markdown behind this page** – [view it now](/open-course-hub/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 
-Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
-
 **Open beyond the LMS:** course materials often stay inside an LMS – visible only to enrolled students, and harder to reuse next term, share with colleagues or move to another platform. What if every page stayed open and portable?
 
 [definition title="The DIY answer: plain Markdown"]
@@ -17,6 +15,8 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 Best of all for reuse, anyone can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
 
+**See an example:** [an openly licensed LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/?target=_blank), converted with no revisions – more in [From Your LMS](/open-course-hub/from-your-lms).
+
 Your LMS still has its place – for grades, quizzes and enrolment. An open course site works alongside it, and its pages embed right inside it.
 
-**See it moved:** this same guide also runs, with the same content, on [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-course-hub?target=_blank), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/open-course-hub?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub?target=_blank) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-course-hub?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank).
+**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.

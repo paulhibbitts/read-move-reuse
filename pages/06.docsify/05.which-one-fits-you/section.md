@@ -3,6 +3,7 @@ title: 'Which One Fits You?'
 section_number: '5'
 description: 'Pick a starting point – plus the trade-offs to know first.'
 child_type: section-page
+side_box: '**Share this guide** – [read-move-reuse.hibbittsdesign.org/docsify](https://read-move-reuse.hibbittsdesign.org/docsify), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
 ---
 
 Everything in this guide is **free and open-source**:
@@ -20,5 +21,7 @@ Everything in this guide is **free and open-source**:
 
 > [!IMPORTANT]
 > **Good to know:** your Markdown needs a public home, such as GitHub or Codeberg; there's no admin panel, so pages are edited on GitHub or in any text editor; search covers the pages in the current sidebar; pages load Docsify and its plugins from public services such as jsDelivr, so readers' browsers contact them too; there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser); and colleagues new to Markdown may need a little help to start.
+
+**Share this guide:** [read-move-reuse.hibbittsdesign.org/docsify](https://read-move-reuse.hibbittsdesign.org/docsify) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)

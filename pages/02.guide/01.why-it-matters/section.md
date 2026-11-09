@@ -7,8 +7,6 @@ child_type: section-page
 side_box: '**See the Markdown behind this page** – [view it now](/guide/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 
-Hello there, I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU,[^1] I now build free, open-source tools that turn [term]Markdown[/term] into websites for open educators and publishers.
-
 **Open both ways:** content that's open for readers often stays inside the platform for its authors – harder to edit elsewhere, move or keep. What if it were open for both?
 
 This guide shows two free tools that are designed for readers and learners, let authors move their content, and let anyone reuse it.
@@ -19,8 +17,10 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **Reuse anywhere:** anyone can get the Markdown behind any page they're viewing, with its callouts, math and diagrams intact – so it opens as it is in [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or on GitHub.
 
+**See the proof:** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) and [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions – more in [From Pressbooks or Your LMS](/guide/from-pressbooks-or-your-lms).
+
 **One guide, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use anywhere.
 
-**See it moved:** this same guide also runs, with the same content, on [the classic Quark theme](https://one.on-rev.com/grav/read-move-reuse-ops-quark/guide?target=_blank), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/guide?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/guide?target=_blank) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/guide?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank).
+**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU,[^1] I now build free, open-source tools that turn [term]Markdown[/term] into websites for open educators and publishers.
 
 [^1]: Simon Fraser University, in Vancouver, Canada.
