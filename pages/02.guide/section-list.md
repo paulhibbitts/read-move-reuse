@@ -26,6 +26,7 @@ attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbi
 published: true
 child_type: section
 keep_my_place: true
+number_figures: true
 hide_from_menu: true
 side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
 ---
