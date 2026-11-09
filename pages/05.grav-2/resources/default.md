@@ -33,7 +33,7 @@ Links for going further with Grav 2, the free projects built on it, and Markdown
 
 ## Other Options
 
-- [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no hosting needed
+- [Docsify-This](https://docsify-this.net/) – publish a Markdown file as a web page instantly, with no web server to set up
 - [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) – a premium counterpart to Open Publishing Space, for open textbooks and guides
 - [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) – a premium counterpart to Open Course Hub, for open courses
 
