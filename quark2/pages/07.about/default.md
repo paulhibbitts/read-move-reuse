@@ -19,6 +19,8 @@ The site itself is built with Open Publishing Space, so it shows a few of its fe
 - **Pages for each guide** – a guide's own Topics and Resources join the menu while you read it, after a divider
 - **Site pages alongside the guides**, like this one
 
+**Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · your Markdown is always yours to reuse – and anyone's, with an open licence.
+
 All five guides are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy them, adapt them and share them, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)

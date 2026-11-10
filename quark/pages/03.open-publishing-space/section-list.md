@@ -30,7 +30,7 @@ hide_from_menu: true
 side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
 ---
 
-Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform, which can make them more challenging to adapt or self-host elsewhere. This short guide introduces Open Publishing Space, a free, open-source website starter for sharing web-first open textbooks and guides alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
+Open textbooks and guides are meant to be reused and remixed, but they often live inside a single platform, which can make them more challenging to adapt or self-host elsewhere – even for their own authors. This short guide introduces Open Publishing Space, a free, open-source website starter for sharing web-first open textbooks and guides alongside a blog and other pages – plus a free converter that brings in a Pressbooks book.
 
 The guide is built with Open Publishing Space, so many of the features it describes are working on the pages you're reading.
 
