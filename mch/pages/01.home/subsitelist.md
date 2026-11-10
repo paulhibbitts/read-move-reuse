@@ -12,6 +12,8 @@ Free, open-source DIY tools for open textbooks, guides and courses – as five s
 
 **Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
+===
+
 ## Which course is for you?
 
 - **[Open Textbooks, Guides and Courses](/guide)** – start here if you're not sure: the overview, for books and courses
