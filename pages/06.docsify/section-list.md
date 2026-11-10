@@ -1,13 +1,13 @@
 ---
 title: 'Docsify for Open Education and Publishing'
 subtitle: 'Markdown on the Web, with No Web Server Needed'
-cover_image: typewriter-green-wide.jpg
-cover_image_alt: 'A vintage typewriter, seen from above, on a textured green surface'
+cover_image: typewriter-light-green-wide.jpg
+cover_image_alt: 'A light green vintage typewriter with a blank sheet of paper, on a cream background'
 cover_image_layout: small
 metadata:
     description: 'A short guide to Docsify-This and the Docsify Starter Kits – free, open-source ways to share Markdown as web pages with no web server to set up – plus a path to a full Grav site.'
     'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/media/og-docsify.jpg'
-    'og:image:alt': 'A vintage typewriter, seen from above, on a textured green surface'
+    'og:image:alt': 'A light green vintage typewriter with a blank sheet of paper, on a cream background'
     'og:title': 'Docsify for Open Education and Publishing: Markdown on the Web, with No Web Server Needed'
     'og:description': 'A short guide to Docsify-This and the Docsify Starter Kits – free, open-source ways to share Markdown as web pages with no web server to set up – plus a path to a full Grav site.'
     'og:type': website
@@ -22,7 +22,7 @@ cards_per_row: '3'
 show_oer_attribution: true
 license: 'CC BY 4.0'
 license_url: 'https://creativecommons.org/licenses/by/4.0/'
-attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://www.pexels.com/@helloaesthe/">hello aesthe</a> on <a href="https://www.pexels.com/photo/a-vintage-typewrite-or-green-surface-9060930/">Pexels</a>.'
+attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@du_sable_et_du_vent">Baptiste Riethmann</a> on <a href="https://unsplash.com/photos/vintage-green-typewriter-with-blank-paper-jOQj5RQVmvg">Unsplash</a>.'
 published: true
 child_type: section
 keep_my_place: true
