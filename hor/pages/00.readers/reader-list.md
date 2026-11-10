@@ -25,8 +25,8 @@ Five short guides from the same source – not sure which? Start with the overvi
 - **[Grav 2 for Open Education and Publishing](/grav-2)** – for you if you're choosing a platform
 - **[Docsify for Open Education and Publishing](/docsify)** – for you if you'd rather not set up a web server
 
-## Same guides, six sites
+## A working example
 
-From the same Markdown: [Open Publishing Space – Quark 2](https://read-move-reuse.hibbittsdesign.org?target=_blank) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ops-quark/?target=_blank) · [MultiCourse Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-mch/?target=_blank) · **Helios Open Reader** (this site) · [Helios Course Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hch/?target=_blank) · [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank)
+These guides show Markdown portability at work: the same files also run with each of my other open-source tools – [Open Publishing Space – Quark 2](https://read-move-reuse.hibbittsdesign.org?target=_blank) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ops-quark/?target=_blank) · [MultiCourse Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-mch/?target=_blank) · [Helios Course Hub](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-hch/?target=_blank) · [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank)
 
 Open Textbooks and Guides was originally prepared for the ETUG Fall Workshop 2026.
