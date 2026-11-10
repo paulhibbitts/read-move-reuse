@@ -1,13 +1,13 @@
 ---
 title: 'Why It Matters'
 section_number: '1'
-description: 'Open content on the web, with no web server to set up or look after.'
+description: 'Your Markdown on the web, with no web server to set up or look after.'
 learning_objectives: "- Understand how Docsify shows Markdown as web pages, with no web server to set up\n- Choose between Docsify-This and a Docsify Starter Kit\n- Know when a full Grav site is worth the move"
 child_type: section-page
 side_box: '**Try it now** – paste the address of any public Markdown file into [Docsify-This](https://docsify-this.net/?target=_blank) and see it as a web page.'
 ---
 
-**The barrier:** sharing a few pages of open content shouldn't need a web server, a content management system or a build process – yet that's often what stands between an educator and the web.
+**The barrier:** sharing a few pages online shouldn't need a web server, a content management system or a build process – yet that's often what stands between an educator and the web.
 
 [definition title="The DIY answer: plain Markdown"]
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs.
