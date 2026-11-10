@@ -17,7 +17,7 @@ side_box: 'Accessibility also depends on the content – see [Improving the Acce
 - **Edit your way:** in the browser with Admin 2, or as files with any editor – and with Git, for a full history of every change and help from others
 - **Content that lasts:** plain Markdown files stay readable in any text editor, long after a platform changes
 - **Content that moves:** pages go between Grav sites, [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages), GitHub and other tools with little rework
-- **Reuse built in:** anyone can get the Markdown behind a page, to adapt and share under its open license
+- **Reuse built in:** you (and, with an open licence, anyone) can get the Markdown behind a page, to adapt and share
 
 Optional: with the free [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync?target=_blank) plugin, every change is saved to a GitHub repository with its full history, and co-authors can suggest edits there.
 

@@ -14,7 +14,9 @@ side_box: '**See the Markdown behind this page** – [view it now](/open-course-
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. It's supported almost everywhere, from GitHub and note-taking apps to Google Docs. Keep every page in Markdown, on a free site you control.
 [/definition]
 
-Best of all for reuse, anyone can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
+**Not ready to openly license your work?** Plain Markdown still keeps your course materials yours – ready for next term, a new LMS or a new institution.
+
+Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or GitHub. That Markdown is also widely used by generative AI tools, so open content is as easy for them to work with as it is for people.
 
 **See an example:** [an openly licensed LMS course in Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/?target=_blank), converted with no revisions – more in [From Your LMS](/open-course-hub/modules/from-your-lms).
 
