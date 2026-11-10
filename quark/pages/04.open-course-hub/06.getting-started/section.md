@@ -25,6 +25,14 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 [/hideifembedded]
 
+Then set up your own site:
+
+1. **Download** a starter from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank)
+2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
+3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account and start writing
+
+**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
+
 **See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://read-move-reuse.hibbittsdesign.org/open-course-hub?target=_blank), as an [Open MultiCourse Hub course](https://one.on-rev.com/grav/read-move-reuse-mch/open-course-hub?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub?target=_blank) and a [course hub](https://one.on-rev.com/grav/read-move-reuse-hch/open-course-hub?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank).
 
 > [!IMPORTANT]

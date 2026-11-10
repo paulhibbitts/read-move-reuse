@@ -21,6 +21,8 @@ The site itself is built with Open Publishing Space, so it shows a few of its fe
 
 **Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
+**Built to last:** the starters, themes and converters are free, open source and actively maintained by me – and because your content is plain Markdown, it keeps working with any tool, whatever the future holds.
+
 All five guides are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy them, adapt them and share them, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
