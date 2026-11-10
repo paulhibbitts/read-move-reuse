@@ -2,7 +2,6 @@
 title: 'Open MultiCourse Hub 2'
 published: true
 description: 'Several courses, each with its own course site, all in a single install.'
-side_box: 'Want to jump right in? Download [Open MultiCourse Hub](https://getgrav.org/downloads/skeletons?target=_blank#multicourse-hub-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/?target=_blank).'
 ---
 
 # Open MultiCourse Hub 2

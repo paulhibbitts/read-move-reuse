@@ -2,7 +2,7 @@
 title: Getting Started
 published: true
 description: Pick the starter for your book or course, try it with nothing to install – plus the limits to know first.
-side_box: '**Share this guide** – [read-move-reuse.hibbittsdesign.org/grav-2](https://read-move-reuse.hibbittsdesign.org/grav-2), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
+side_box: false
 ---
 
 # Getting Started

@@ -3,7 +3,6 @@ title: 'Open Publishing Space 2'
 section_number: '2'
 description: 'Open textbooks and guides as websites, with the Markdown behind every page a click away.'
 child_type: section-page
-side_box: 'Want to jump right in? Download [Open Publishing Space](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank).'
 ---
 
 A free, open-source website starter for sharing **[term]web-first[/term] open textbooks and guides** alongside a blog and other pages, built on the [term]Grav[/term] 2 CMS. And being web-first, the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
@@ -37,5 +36,5 @@ Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files
 [hideifembedded]
 See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/) · [This page, embedded](/open-publishing-space/open-publishing-space?embedded=true)
 
-Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#admin2-site-readme-plugin).
+Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen).
 [/hideifembedded]

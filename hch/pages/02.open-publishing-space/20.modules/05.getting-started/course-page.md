@@ -2,7 +2,7 @@
 title: 'Getting Started'
 published: true
 description: 'Explore the demo and try the converter, with nothing to install – plus the limits to know first.'
-side_box: '**Share this guide** – [read-move-reuse.hibbittsdesign.org/open-publishing-space](https://read-move-reuse.hibbittsdesign.org/open-publishing-space), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
+side_box: false
 ---
 
 # Getting Started

@@ -3,7 +3,7 @@ title: 'Getting Started'
 section_number: '6'
 description: 'Explore the demos and try the converter, with nothing to install – plus the limits to know first.'
 child_type: section-page
-side_box: '**Share this guide** – [read-move-reuse.hibbittsdesign.org/open-course-hub](https://read-move-reuse.hibbittsdesign.org/open-course-hub), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
+side_box: false
 ---
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos and try the converter with nothing to install:

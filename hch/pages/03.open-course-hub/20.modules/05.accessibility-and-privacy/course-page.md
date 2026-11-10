@@ -2,7 +2,6 @@
 title: 'Accessibility and Privacy'
 published: true
 description: 'Keyboard, screen reader and reading comfort features, built in – with content and learner data on a site you control.'
-side_box: 'Accessibility also depends on the content – see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/?target=_blank).'
 ---
 
 # Accessibility and Privacy
@@ -18,4 +17,4 @@ Built in, for different kinds of learners:
 
 *Open Course Hub in dark mode*
 
-Accessibility also depends on the content itself – headings, alt text and link text are up to the author.
+Accessibility also depends on the content itself – headings, alt text and link text are up to the author (see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/?target=_blank)).

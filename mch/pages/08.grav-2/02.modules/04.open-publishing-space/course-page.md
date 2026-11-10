@@ -1,7 +1,6 @@
 ---
 title: Open Publishing Space 2
 description: A free starter for open textbooks and guides – plus converters to bring in what you already have.
-side_box: Want to jump right in? Download [Open Publishing Space](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank).
 ---
 
 A free, open-source website starter for sharing **web-first open textbooks and guides**, alongside a blog and other pages. Like every Grav **starter skeleton**, it comes as Grav 2, a theme and sample content, ready to upload.
@@ -24,7 +23,7 @@ Example (a raw conversion, with no revisions or fine-tuning): [the original book
 [hideifembedded]
 See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank) · [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/?target=_blank)
 
-Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html?target=_blank#admin2-site-readme-plugin).
+Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) (the sign-in details are on its sign-in screen).
 [/hideifembedded]
 
 For more, see the [Open Textbooks and Guides](/open-publishing-space) guide.

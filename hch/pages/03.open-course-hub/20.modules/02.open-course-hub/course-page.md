@@ -2,7 +2,6 @@
 title: 'Open Course Hub 2'
 published: true
 description: 'An open course site organized by modules, ready to embed in your LMS.'
-side_box: 'Want to jump right in? Download [Open Course Hub](https://getgrav.org/downloads/skeletons?target=_blank#course-hub-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/?target=_blank).'
 ---
 
 # Open Course Hub 2
@@ -34,5 +33,5 @@ Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files
 [hideifembedded]
 [See the demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [A module, embedded](https://demo.hibbittsdesign.org/grav-open-course-hub/modules/module-04?embedded=true) · [This page, embedded](/open-course-hub/modules/open-course-hub?embedded=true)
 
-Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#admin2-site-readme-plugin).
+Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen).
 [/hideifembedded]

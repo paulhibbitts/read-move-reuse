@@ -1,7 +1,7 @@
 ---
 title: 'Which One Fits You?'
 description: 'Pick the starter for your book or course – plus the trade-offs to know first.'
-side_box: '**Share this guide** – [read-move-reuse.hibbittsdesign.org/guide](https://read-move-reuse.hibbittsdesign.org/guide), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
+side_box: false
 ---
 
 All the starters and converters in this course are **free and open-source**:

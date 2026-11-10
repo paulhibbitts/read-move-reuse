@@ -2,7 +2,6 @@
 title: Open Course Hub 2
 published: true
 description: Open Publishing Space's twin, for open courses – plus converters to bring in an LMS course.
-side_box: Want to jump right in? Download [Open Course Hub](https://getgrav.org/downloads/skeletons?target=_blank#course-hub-site) or try the [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/?target=_blank).
 ---
 
 # Open Course Hub 2
@@ -31,7 +30,7 @@ Example (a raw conversion, with no revisions or fine-tuning): [LMS course conten
 [hideifembedded]
 See the demo: [Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub/?target=_blank) · [a module, embedded](https://demo.hibbittsdesign.org/grav-open-course-hub/modules/module-04?embedded=true&target=_blank) · [Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/?target=_blank)
 
-Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin?target=_blank) (the sign-in details are on its sign-in screen). Once signed in, the project's ReadMe is in the Admin sidebar, thanks to the [Admin2 Site ReadMe plugin](https://hibbittsdesign.org/cost-free-grav-projects.html?target=_blank#admin2-site-readme-plugin).
+Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin?target=_blank) (the sign-in details are on its sign-in screen).
 [/hideifembedded]
 
 For more, see the [Open Courses](/open-course-hub) guide.
