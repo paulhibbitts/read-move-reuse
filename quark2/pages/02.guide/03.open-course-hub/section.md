@@ -3,7 +3,7 @@ title: 'Open Course Hub 2'
 section_number: '3'
 description: 'An open course site organized by modules, ready to embed in your LMS.'
 child_type: section-page
-side_box: '**Preview: Open Course Space** – one site for one course or many, alongside guides, on the same theme as Open Publishing Space. [Try the preview](https://demo.hibbittsdesign.org/grav-open-course-space-2/?target=_blank)'
+side_box: '**Preview: Open Course Space** – one site for one course or many, alongside guides, on the same theme as Open Publishing Space. [Try the preview](https://demo.hibbittsdesign.org/grav-open-course-space/?target=_blank)'
 ---
 
 Its twin, for **courses**: a free, open-source course site organized by modules.

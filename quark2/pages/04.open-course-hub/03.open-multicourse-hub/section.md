@@ -3,7 +3,7 @@ title: 'Open MultiCourse Hub 2'
 section_number: '3'
 description: 'Several courses, each with its own course site, all in a single install.'
 child_type: section-page
-side_box: '**Preview: Open Course Space** – one site for one course or many, alongside guides, on the same theme as Open Publishing Space. [Try the preview](https://demo.hibbittsdesign.org/grav-open-course-space-2/?target=_blank)'
+side_box: '**Preview: Open Course Space** – one site for one course or many, alongside guides, on the same theme as Open Publishing Space. [Try the preview](https://demo.hibbittsdesign.org/grav-open-course-space/?target=_blank)'
 ---
 
 Teaching several courses? **Open MultiCourse Hub 2** gives each one its own course site – with its own modules, home page and optional blog – all in a single install.
