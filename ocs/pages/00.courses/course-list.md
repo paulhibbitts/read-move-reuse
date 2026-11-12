@@ -1,14 +1,12 @@
 ---
 title: Courses
+subtitle: 'Free, open-source DIY tools for open textbooks, guides and courses'
 visible: false
 show_sidebar: false
 show_search_box: false
-hide_page_title: true
 ---
 
-## Courses
-
-Free, open-source DIY tools for open textbooks, guides and courses – as five short courses from the same source. Not sure which? Start with the overview, [Open Textbooks, Guides and Courses](/guide).
+Five short courses from the same source – not sure which? Start with the overview, [Open Textbooks, Guides and Courses](/guide).
 
 **Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
