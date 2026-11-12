@@ -3,7 +3,7 @@ title: 'Open Courses'
 subsite_list_title: 'Open Courses'
 published: true
 visible: false
-subsite_list_description: 'A short course on Open Course Hub and Open MultiCourse Hub, for open courses organized by modules – plus a free Common Cartridge Converter.'
+subsite_list_description: 'A short course on Open Course Space, for open courses organized by modules – one course or many – plus a free Common Cartridge Converter.'
 hide_from_subsite_list: false
 subsite_home: home
 redirect: '/open-course-hub/home'

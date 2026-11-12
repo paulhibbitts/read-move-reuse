@@ -14,8 +14,8 @@ Every topic in the guide, from A to Z.
 ## C
 
 - [Common Cartridge Converter](/open-course-hub/from-your-lms)
-- [Course blog](/open-course-hub/open-course-hub)
-- [Courses, several on one site](/open-course-hub/open-multicourse-hub)
+- [Blog, shared by all courses](/open-course-hub/open-course-hub)
+- [Courses, one or many on one site](/open-course-hub/open-course-hub)
 
 ## D
 
@@ -52,7 +52,8 @@ Every topic in the guide, from A to Z.
 ## O
 
 - [On this page box on phones](/open-course-hub/open-course-hub)
-- [Open Course Hub 2](/open-course-hub/open-course-hub)
+- [Open Course Hub 2](/open-course-hub/open-multicourse-hub)
+- [Open Course Space](/open-course-hub/open-course-hub)
 - [Open MultiCourse Hub 2](/open-course-hub/open-multicourse-hub)
 - [Open Publishing Course Hub Converter](/open-course-hub/from-your-lms)
 

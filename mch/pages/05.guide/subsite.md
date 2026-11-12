@@ -3,7 +3,7 @@ title: 'Open Textbooks, Guides and Courses'
 subsite_list_title: 'Open Textbooks, Guides and Courses'
 published: true
 visible: false
-subsite_list_description: 'A short course on both website starters – Open Publishing Space and Open Course Hub – plus the converters that bring in a Pressbooks book or LMS course.'
+subsite_list_description: 'A short course on both website starters – Open Publishing Space and Open Course Space – plus the converters that bring in a Pressbooks book or LMS course.'
 hide_from_subsite_list: false
 subsite_home: home
 redirect: '/guide/home'

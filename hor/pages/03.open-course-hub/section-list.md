@@ -5,16 +5,16 @@ cover_image: bicycle-yellow-wall.jpg
 cover_image_alt: 'A bicycle with a front basket leaning against a yellow wall'
 cover_image_layout: small
 metadata:
-    description: 'A short guide to Open Course Hub and Open MultiCourse Hub, free, open-source Grav 2 website starters for open courses – plus a free Common Cartridge Converter for your LMS course.'
+    description: 'A short guide to Open Course Space, a free, open-source Grav 2 website starter for open courses – one course or many – plus a free Common Cartridge Converter for your LMS course.'
     'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/pages/04.open-course-hub/og-image.jpg'
     'og:image:alt': 'A bicycle with a front basket leaning against a yellow wall'
     'og:title': 'Open Courses: A DIY Path from Plain Markdown or Your LMS'
-    'og:description': 'A short guide to Open Course Hub and Open MultiCourse Hub, free, open-source Grav 2 website starters for open courses – plus a free Common Cartridge Converter for your LMS course.'
+    'og:description': 'A short guide to Open Course Space, a free, open-source Grav 2 website starter for open courses – one course or many – plus a free Common Cartridge Converter for your LMS course.'
     'og:type': website
     'twitter:card': summary_large_image
 authors: 'Paul Hibbitts'
 edition: 'First Edition, 2026'
-last_updated: '10-11-2026 00:00'
+last_updated: '12-11-2026 00:00'
 section_label: Part
 show_reading_progress: true
 prev_next_position: both
@@ -29,7 +29,7 @@ keep_my_place: true
 side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
 ---
 
-Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere – even for the instructors who made them. This short guide introduces Open Course Hub, a free, open-source website starter for open courses organized by modules, and its sibling Open MultiCourse Hub for several courses – plus a free converter that brings in a course from your LMS.
+Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere – even for the instructors who made them. This short guide introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.

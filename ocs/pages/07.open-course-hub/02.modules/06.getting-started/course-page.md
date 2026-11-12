@@ -6,8 +6,7 @@ side_box: false
 
 All the starters and converters in this course are **free and open-source**, and you can explore the demos and try the converter with nothing to install:
 
-- **"I want a web home for my course"** → Open Course Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-course-hub/) · [download](https://getgrav.org/downloads/skeletons#course-hub-site)
-- **"I teach several courses"** → Open MultiCourse Hub 2: [demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/) · [download](https://getgrav.org/downloads/skeletons#multicourse-hub-site)
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early release)
 - **"I already have a course in my LMS"** → the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), then the [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) when you're ready for a full site – see [a course on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363), or the [Docsify for Open Education and Publishing](/docsify) guide
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space 2 – see the [Open Textbooks and Guides](/open-publishing-space) course
@@ -25,7 +24,7 @@ All the starters and converters in this course are **free and open-source**, and
 
 Then set up your own site:
 
-1. **Download** a starter from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank)
+1. **Download** [Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest?target=_blank) from GitHub (it's an early release, not yet on getgrav.org)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account and start writing
 

@@ -3,7 +3,7 @@ title: 'Open Textbooks, Guides and Courses'
 published: true
 routable: false
 icon: tabler/books.svg
-description: 'A short course on both website starters – Open Publishing Space and Open Course Hub – plus the converters that bring in a Pressbooks book or LMS course.'
+description: 'A short course on both website starters – Open Publishing Space and Open Course Space – plus the converters that bring in a Pressbooks book or LMS course.'
 instructor: 'Paul Hibbitts'
 image: chris-robert-P189JexXzQY-unsplash.jpg
 show_sidebar_image: true

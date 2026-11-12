@@ -9,7 +9,7 @@ hide_page_title: true
 
 *Paul Hibbitts*
 
-Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere – even for the instructors who made them. This short course introduces Open Course Hub, a free, open-source website starter for open courses organized by modules, and its sibling Open MultiCourse Hub for several courses – plus a free converter that brings in a course from your LMS.
+Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere – even for the instructors who made them. This short course introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
 This version is a course site, built with Open MultiCourse Hub, so the course menu, module list and header image you're using are its features at work – the same Markdown, moved from [the original guide](https://read-move-reuse.hibbittsdesign.org/open-course-hub?target=_blank), built with Open Publishing Space.
 

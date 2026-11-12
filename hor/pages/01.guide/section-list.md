@@ -13,7 +13,7 @@ metadata:
     'twitter:card': summary_large_image
 authors: 'Paul Hibbitts'
 edition: 'First Edition, 2026'
-last_updated: '10-11-2026 00:00'
+last_updated: '12-11-2026 00:00'
 section_label: Part
 show_reading_progress: true
 prev_next_position: both

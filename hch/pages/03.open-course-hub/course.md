@@ -3,7 +3,7 @@ title: 'Open Courses'
 published: true
 routable: false
 icon: tabler/school.svg
-description: 'A short course on Open Course Hub and Open MultiCourse Hub, for open courses organized by modules – plus a free Common Cartridge Converter.'
+description: 'A short course on Open Course Space, for open courses organized by modules – one course or many – plus a free Common Cartridge Converter.'
 instructor: 'Paul Hibbitts'
 image: bicycle-yellow-wall.jpg
 show_sidebar_image: true

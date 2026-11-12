@@ -20,7 +20,7 @@ Every topic in the course, from A to Z.
 ## C
 
 - [Common Cartridge Converter](/guide/modules/from-pressbooks-or-your-lms)
-- [Course blog](/guide/modules/open-course-hub)
+- [Blog, shared by all courses](/guide/modules/open-course-hub)
 
 ## D
 
@@ -58,8 +58,7 @@ Every topic in the course, from A to Z.
 ## O
 
 - [OER attribution](/guide/modules/open-publishing-space)
-- [Open Course Hub 2](/guide/modules/open-course-hub)
-- [Open MultiCourse Hub 2](/guide/modules/open-course-hub)
+- [Open Course Space](/guide/modules/open-course-hub)
 - [Open Publishing Course Hub Converter](/guide/modules/from-pressbooks-or-your-lms)
 - [Open Publishing Space 2](/guide/modules/open-publishing-space)
 
