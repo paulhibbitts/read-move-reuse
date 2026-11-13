@@ -31,6 +31,10 @@ Then set up your own site:
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Course is ready to start your own from
 
+![The Getting Started page in Admin 2's sidebar, welcoming you to Open Course Space with how editing works, how the home page works, and numbered steps with links to the settings and pages they mention](open-course-space-getting-started.webp)
+
+*Getting Started in Admin 2, on a new Open Course Space site*
+
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
 **See it moved:** this same course also runs, with the same content, as an Open Publishing Space guide on the [Quark 2](https://read-move-reuse.hibbittsdesign.org/open-course-hub?target=_blank) and [classic Quark](https://one.on-rev.com/grav/read-move-reuse-ops-quark/open-course-hub?target=_blank) themes, as an [Open Course Space course](https://demo.hibbittsdesign.org/read-move-reuse/read-move-reuse-ocs/open-course-hub?target=_blank), and on Grav Premium Helios as an [open reader](https://one.on-rev.com/grav/read-move-reuse-hor/open-course-hub?target=_blank) – and as plain Markdown pages on [Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank).
