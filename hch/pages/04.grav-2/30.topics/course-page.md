@@ -82,7 +82,7 @@ Every topic in the guide, from A to Z.
 - [Security](/grav-2/modules/meet-grav-2)
 - [Setting up a site](/grav-2/modules/getting-started)
 - [Starter skeletons](/grav-2/modules/open-publishing-space)
-- [Static site tools (Quarto, Jupyter Book, Jekyll)](/grav-2/modules/why-it-suits-open-education)
+- [Static site tools (Quarto, Jupyter Book, Jekyll, Hugo)](/grav-2/modules/why-it-suits-open-education)
 
 ## T
 
