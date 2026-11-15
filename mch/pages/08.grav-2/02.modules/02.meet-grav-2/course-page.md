@@ -55,7 +55,7 @@ And this is Admin 2, where pages like this one are organized, written and previe
 *The same page in Admin 2's Page Preview*
 
 [hideifembedded]
-Try the Admin 2 panel: read-only demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and [Open Course Hub](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin?target=_blank) (the sign-in details are on their sign-in screens).
+Try the Admin 2 panel: read-only demos for [Open Publishing Space](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and [Open Course Space](https://try.hibbittsdesign.org/grav-skeleton-open-course-space/admin?target=_blank) (the sign-in details are on their sign-in screens).
 [/hideifembedded]
 
 **Coming from WordPress?** Much of it will feel familiar:

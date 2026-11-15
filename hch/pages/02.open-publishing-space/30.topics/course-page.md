@@ -60,7 +60,7 @@ Every topic in the course, from A to Z.
 ## O
 
 - [OER attribution](/open-publishing-space/modules/open-publishing-space)
-- [Open Publishing Course Hub Converter](/open-publishing-space/modules/from-pressbooks)
+- [Open Publishing Course Space Converter](/open-publishing-space/modules/from-pressbooks)
 - [Open Publishing Space 2](/open-publishing-space/modules/open-publishing-space)
 
 ## P

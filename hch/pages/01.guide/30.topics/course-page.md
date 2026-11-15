@@ -64,7 +64,7 @@ Every topic in the course, from A to Z.
 
 - [OER attribution](/guide/modules/open-publishing-space)
 - [Open Course Space](/guide/modules/open-course-hub)
-- [Open Publishing Course Hub Converter](/guide/modules/from-pressbooks-or-your-lms)
+- [Open Publishing Course Space Converter](/guide/modules/from-pressbooks-or-your-lms)
 - [Open Publishing Space 2](/guide/modules/open-publishing-space)
 
 ## P

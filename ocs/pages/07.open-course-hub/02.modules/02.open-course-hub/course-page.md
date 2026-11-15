@@ -38,7 +38,7 @@ Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files
 [hideifembedded]
 [See the demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [A module, embedded](https://demo.hibbittsdesign.org/grav-open-course-space/cpt363-basic/modules/module-04?embedded=true) · [This page, embedded](/open-course-hub/modules/open-course-hub?embedded=true)
 
-Try the Admin 2 panel with a course site: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-course-hub/admin) (the sign-in details are on its sign-in screen).
+Try the Admin 2 panel with a course site: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-course-space/admin) (the sign-in details are on its sign-in screen).
 [/hideifembedded]
 
 > [!NOTE]
