@@ -12,7 +12,7 @@ Every topic in the guide, from A to Z.
 
 - [Accessibility](/grav-2/why-it-suits-open-education)
 - [Admin 2](/grav-2/meet-grav-2)
-- [Admin2 Site ReadMe plugin](/grav-2/open-publishing-space)
+- [Admin2 Site ReadMe plugin](/grav-2/resources)
 
 ## C
 
@@ -65,7 +65,7 @@ Every topic in the guide, from A to Z.
 ## O
 
 - [Open Course Space](/grav-2/open-course-hub)
-- [Open Publishing Course Space Converter](/grav-2/open-publishing-space)
+- [Open Publishing Course Space Converter](/grav-2/getting-started)
 - [Open Publishing Space 2](/grav-2/open-publishing-space)
 
 ## P
