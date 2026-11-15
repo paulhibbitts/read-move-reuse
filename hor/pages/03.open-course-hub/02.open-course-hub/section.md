@@ -3,6 +3,7 @@ title: 'Open Course Space'
 section_number: '2'
 description: 'One course or many in a single site, organized by modules and ready to embed in your LMS.'
 child_type: section-page
+side_box: "**See the demo** – [Open Course Space with three sample courses](https://demo.hibbittsdesign.org/grav-open-course-space/courses?target=_blank), ready to explore."
 ---
 
 A free, open-source website starter for **open courses**, organized by modules and built on the Grav 2 CMS – one course or many, in a single site.

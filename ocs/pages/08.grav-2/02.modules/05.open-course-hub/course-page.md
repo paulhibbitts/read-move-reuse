@@ -1,6 +1,7 @@
 ---
 title: 'Open Course Space'
 description: 'Open Publishing Space''s twin, for open courses – plus a converter to bring in an LMS course.'
+side_box: "**See the demo** – [Open Course Space with three sample courses](https://demo.hibbittsdesign.org/grav-open-course-space/courses?target=_blank) – and you're looking at one now, as this site is built with it."
 ---
 
 Its twin, for **courses**: a free, open-source course site organized by modules – one course or many, in a single site.

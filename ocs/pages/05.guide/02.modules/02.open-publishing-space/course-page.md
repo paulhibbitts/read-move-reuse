@@ -1,6 +1,7 @@
 ---
 title: 'Open Publishing Space 2'
 description: 'Open textbooks and guides as websites, with the Markdown behind every page a click away.'
+side_box: "**See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank), ready to explore."
 ---
 
 A free, open-source website starter for **open textbooks and guides**, with a blog alongside.

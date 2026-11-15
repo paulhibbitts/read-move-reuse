@@ -2,7 +2,7 @@
 title: 'From Pressbooks or Your LMS'
 published: true
 description: 'Free converters turn an existing book or course into Markdown pages for either site.'
-side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*"
+side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*\n\n**See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/?target=_blank), converted with no revisions."
 ---
 
 # From Pressbooks or Your LMS

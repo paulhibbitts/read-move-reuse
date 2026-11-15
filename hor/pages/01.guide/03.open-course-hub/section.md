@@ -3,6 +3,7 @@ title: 'Open Course Space'
 section_number: '3'
 description: 'An open course site organized by modules – one course or many – ready to embed in your LMS.'
 child_type: section-page
+side_box: "**See the demo** – [Open Course Space with three sample courses](https://demo.hibbittsdesign.org/grav-open-course-space/courses?target=_blank), ready to explore."
 ---
 
 Its twin, for **courses**: a free, open-source course site organized by modules – one course or many, in a single site.

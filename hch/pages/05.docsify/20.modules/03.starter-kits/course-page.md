@@ -2,6 +2,7 @@
 title: 'Docsify Starter Kits'
 published: true
 description: 'Your own open course or publishing site on GitHub Pages, with no build step.'
+side_box: "**See it embedded** – [a module from the Open Course Kit demo](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/?target=_blank#/module-01?embedded=true), as it would look in Canvas, Moodle or Brightspace."
 ---
 
 # Docsify Starter Kits

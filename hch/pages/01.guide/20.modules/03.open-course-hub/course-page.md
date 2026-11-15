@@ -2,6 +2,7 @@
 title: 'Open Course Space'
 published: true
 description: 'An open course site organized by modules – one course or many – ready to embed in your LMS.'
+side_box: "**See the demo** – [Open Course Space with three sample courses](https://demo.hibbittsdesign.org/grav-open-course-space/courses?target=_blank), ready to explore."
 ---
 
 # Open Course Space

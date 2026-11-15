@@ -2,6 +2,7 @@
 title: 'From Your LMS'
 published: true
 description: 'A free converter turns an existing LMS course into Markdown pages for your course site.'
+side_box: "**See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/?target=_blank), converted with no revisions."
 ---
 
 # From Your LMS
