@@ -19,7 +19,7 @@ The site itself is built with Open Publishing Space, so it shows a few of its fe
 - **Pages for each guide** – a guide's own Topics and Resources join the menu while you read it, after a divider
 - **Site pages alongside the guides**, like this one
 
-**Read, Move, Reuse:** pages designed for every reader · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Read, Move, Reuse:** pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
 **Your content lasts:** the starters, themes and converters are free and open source – and because your content is plain Markdown, it keeps working with other tools too.
 
