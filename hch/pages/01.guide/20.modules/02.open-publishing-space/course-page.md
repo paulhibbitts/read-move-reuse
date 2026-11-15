@@ -10,6 +10,7 @@ side_box: "**See the demo** – [Open Publishing Space with a sample guide](http
 A free, open-source website starter for **open textbooks and guides**, with a blog alongside.
 
 - Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (pick up where you left off, even partway down a page)
+- A "This page as Markdown" link on every page, so anyone can reuse its content
 - One site can hold several guides, each with a card on a Guides page and its own Topics and Resources in the menu
 - Diagrams and math written as plain text, with the free [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin) and [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin) plugins – like $E = mc^2$, or this diagram:
 

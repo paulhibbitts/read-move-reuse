@@ -9,6 +9,7 @@ side_box: "**See the demo** – [Open Publishing Space with a sample guide](http
 A free, open-source website starter for sharing **[term]web-first[/term] open textbooks and guides** alongside a blog and other pages, built on the [term]Grav[/term] 2 CMS. And being web-first, the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
 
 - Guides with section cards, reading progress, Learning Objectives, [term]OER[/term] attribution, search and **Keep My Place** (pick up where you left off, even partway down a page)
+- A "This page as Markdown" link on every page, so anyone can reuse its content
 - One site can hold several guides, each with a card on a Guides page and its own pages in the menu, such as Topics and Resources – plus site pages like [About](/about)
 - Diagrams and math written as plain text, with the free [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin) and [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin) plugins – like $E = mc^2$, or this diagram:
 

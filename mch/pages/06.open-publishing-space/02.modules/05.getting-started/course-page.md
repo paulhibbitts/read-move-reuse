@@ -13,7 +13,7 @@ All the starters and converters in this course are **free and open-source**, and
 
 [hideifembedded]
 
-**Try it in 5 minutes:**
+**Explore it in 5 minutes:**
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this course, like slides
@@ -24,7 +24,7 @@ All the starters and converters in this course are **free and open-source**, and
 
 Then set up your own site:
 
-1. **Download** a starter from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank)
+1. **Download** a starter skeleton from [getgrav.org](https://getgrav.org/downloads/skeletons?target=_blank)
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Guide is ready to start your own from
 

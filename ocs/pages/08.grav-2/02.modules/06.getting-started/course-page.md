@@ -13,7 +13,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 
 [hideifembedded]
 
-**Try it in 5 minutes:**
+**Explore it in 5 minutes:**
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this course, like slides
