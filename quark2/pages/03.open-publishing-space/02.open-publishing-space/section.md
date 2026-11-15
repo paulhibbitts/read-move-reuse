@@ -3,6 +3,7 @@ title: 'Open Publishing Space 2'
 section_number: '2'
 description: 'Open textbooks and guides as websites, with the Markdown behind every page a click away.'
 child_type: section-page
+side_box: "**See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank) – and you're looking at one now, as this guide is built with it.\n\n**See this page embedded** – [as it would look in Canvas, Moodle or Brightspace](/open-publishing-space/open-publishing-space?embedded=true&target=_blank)."
 ---
 
 A free, open-source website starter for sharing **[term]web-first[/term] open textbooks and guides** alongside a blog and other pages, built on the [term]Grav[/term] 2 CMS. And being web-first, the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.

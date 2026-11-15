@@ -28,7 +28,7 @@ child_type: section
 keep_my_place: true
 number_figures: true
 hide_from_menu: true
-side_box: '**Reuse this guide** – it''s licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy it, adapt it and share it, with credit.'
+side_box: '**Reuse this guide** – it''s CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](/guide/llms-full.txt?target=_blank).'
 ---
 
 Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
