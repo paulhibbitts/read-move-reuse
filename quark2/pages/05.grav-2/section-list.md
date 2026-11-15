@@ -30,6 +30,6 @@ hide_from_menu: true
 side_box: '**Reuse this guide** – it''s CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](/grav-2/llms-full.txt?target=_blank).'
 ---
 
-Open textbooks, guides and courses are meant to be shared and reused, but the platforms they live on don't always make that easy for their authors. This short guide introduces [Grav 2](https://getgrav.org/?target=_blank), a free, open-source flat-file CMS (website system) that keeps every page in plain Markdown on a site you control – and shows why it suits open education and publishing, with free starters and converters built on it.
+Many platforms can publish openly licensed textbooks, guides and courses – but direct access to the content itself, for readers and authors alike, is often not as easy. This short guide introduces [Grav 2](https://getgrav.org/?target=_blank), a free, open-source platform that keeps every page as a plain Markdown file on a site you control – with the Markdown behind any page a click away.
 
-This guide is one of five on this site, which is itself a Grav 2 site built with Open Publishing Space – see the other [guides](/).
+You'll see why it suits open education and publishing, the free starters and converters built on it, and how to explore its demos and Admin 2 with nothing to install. This guide is one of [five on this site](/guides), itself built with Grav 2 and Open Publishing Space.

@@ -22,6 +22,6 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **See the proof:** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) and [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions – more in [From Pressbooks or Your LMS](/guide/modules/from-pressbooks-or-your-lms).
 
-**One course, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use anywhere.
+**One course, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use it many ways.
 
 **About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.

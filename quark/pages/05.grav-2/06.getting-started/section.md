@@ -1,7 +1,7 @@
 ---
 title: 'Getting Started'
 section_number: '6'
-description: 'Pick the starter for your book or course, try it with nothing to install – plus the limits to know first.'
+description: 'Pick the starter for your book or course and explore its demo with nothing to install – plus the limits to know first.'
 child_type: section-page
 side_box: false
 ---
