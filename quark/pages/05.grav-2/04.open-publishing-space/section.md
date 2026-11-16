@@ -1,5 +1,5 @@
 ---
-title: 'Open Publishing Space 2'
+title: 'Open Publishing Space'
 section_number: '4'
 description: 'A free starter for open textbooks and guides – plus converters to bring in what you already have.'
 child_type: section-page

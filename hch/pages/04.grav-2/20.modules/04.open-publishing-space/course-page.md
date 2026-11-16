@@ -1,11 +1,11 @@
 ---
-title: Open Publishing Space 2
+title: Open Publishing Space
 published: true
 description: A free starter for open textbooks and guides – plus converters to bring in what you already have.
 side_box: "**See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank), ready to explore."
 ---
 
-# Open Publishing Space 2
+# Open Publishing Space
 
 A free, open-source website starter for sharing **web-first open textbooks and guides**, alongside a blog and other pages. Like every Grav **starter skeleton**, it comes as Grav 2, a theme and sample content, ready to upload.
 

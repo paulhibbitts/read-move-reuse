@@ -1,5 +1,5 @@
 ---
-title: 'Open Publishing Space 2'
+title: 'Open Publishing Space'
 section_number: '2'
 description: 'Open textbooks and guides as websites, with the Markdown behind every page a click away.'
 child_type: section-page

@@ -1,5 +1,5 @@
 ---
-title: 'Open Publishing Space 2'
+title: 'Open Publishing Space'
 description: 'Open textbooks and guides as websites, with the Markdown behind every page a click away.'
 side_box: "**See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank), ready to explore.\n\n**See this page embedded** – [as it would look in Canvas, Moodle or Brightspace](/open-publishing-space/modules/open-publishing-space?embedded=true&target=_blank)."
 ---

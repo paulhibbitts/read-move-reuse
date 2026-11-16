@@ -68,7 +68,7 @@ Every topic in the guide, from A to Z.
 
 - [Open Course Space](/grav-2/modules/open-course-hub)
 - [Open Publishing Course Space Converter](/grav-2/modules/getting-started)
-- [Open Publishing Space 2](/grav-2/modules/open-publishing-space)
+- [Open Publishing Space](/grav-2/modules/open-publishing-space)
 
 ## P
 
