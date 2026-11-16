@@ -18,7 +18,7 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (
 > You're reading this page embedded – the same way it would appear inside Canvas, Moodle or Brightspace.
 [/showifembedded]
 
-**New:** Open Course Space is an early preview – the free successor to Open Course Hub and Open MultiCourse Hub, which are still available, including for Grav 1.7.
+**New:** Open Course Space is an early preview – the free successor to Open Course Hub and Open MultiCourse Hub, which are still available, including for Grav 1.7, and will soon be in maintenance mode.
 
 ![An Open Course Space course home page, with the course's own menu and header image, What's Happening This Week linking to the current module, reminders with due dates, and Canvas LMS links beside them](open-course-space-home.webp)
 

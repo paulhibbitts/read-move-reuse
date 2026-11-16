@@ -52,7 +52,6 @@ Every topic in the guide, from A to Z.
 
 - [Languages (multilingual sites)](/grav-2/modules/meet-grav-2)
 - [LaTeX Math plugin](/grav-2/modules/meet-grav-2)
-- [Learn2 with Git Sync](/grav-2/resources)
 - [Licensing](/grav-2/modules/why-it-suits-open-education)
 - [LMS, working alongside](/grav-2/modules/getting-started)
 
