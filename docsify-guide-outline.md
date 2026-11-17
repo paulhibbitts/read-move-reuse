@@ -32,7 +32,7 @@ A fifth Read, Move, Reuse guide, for after ETUG (Nov 27, 2026). Not part of the 
 ## 3. Docsify Starter Kits
 
 - Your own site on GitHub Pages – your own domain and custom CSS, no coding needed
-- Open Publishing Kit, Open Course Kit, Open MultiCourse Kit; Guide Site and Multiple Guides Site templates (covers, cards, Topics letter bar)
+- Open Publishing Kit, Open Course Kit, Open Courses Kit; Guide Site, Multiple Guides Site and Courses Site templates (covers, cards, Topics letter bar)
 - When to choose a kit over Docsify-This: your own address, branding, a whole site in one repository
 - Demos: the kit demo sites
 

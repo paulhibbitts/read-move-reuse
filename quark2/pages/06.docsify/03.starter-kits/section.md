@@ -9,7 +9,7 @@ side_box: '**See it embedded** – [a module from the Open Course Kit demo](http
 Free, open-source templates that turn Docsify into a ready-to-run site – hosted free on GitHub Pages, or anywhere else, with your own domain if you like.
 
 - **[Open Course Kit](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/?target=_blank)** – a single open course site, with course navigation and a sidebar
-- **[Open MultiCourse Kit](https://hibbitts-design.github.io/demo-docsify-open-multicourse-starter-kit/#/?target=_blank)** – several courses from one site
+- **[Open Courses Kit](https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/?target=_blank)** – one course or many, with a Courses page of cards
 - **[Open Publishing Kit](https://hibbitts-design.github.io/demo-docsify-open-publishing-starter-kit/#/?target=_blank)** – articles, tutorials and documentation, with layouts for [a single guide](https://hibbitts-design.github.io/demo-docsify-open-publishing-starter-kit-guide/#/?target=_blank) and [multiple guides](https://hibbitts-design.github.io/demo-docsify-open-publishing-starter-kit-multiple-guides/#/?target=_blank)
 
 ![The Open Course Kit demo: a course sidebar with weekly modules and LMS links, beside a What's Happening This Week box with reminders and required reading](docsify-open-course-kit.webp)
