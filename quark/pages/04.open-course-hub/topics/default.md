@@ -58,7 +58,7 @@ Every topic in the guide, from A to Z.
 - [Open Course Hub 2](/open-course-hub/open-multicourse-hub)
 - [Open Course Space](/open-course-hub/open-course-hub)
 - [Open MultiCourse Hub 2](/open-course-hub/open-multicourse-hub)
-- [Open Publishing Course Space Converter](/open-course-hub/from-your-lms)
+- [Open Publishing Course Space Bridge](/open-course-hub/from-your-lms)
 
 ## P
 
