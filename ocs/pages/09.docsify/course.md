@@ -1,11 +1,11 @@
 ---
 title: Docsify for Open Education and Publishing
-subsite_list_title: Docsify for Open Education and Publishing
+course_list_title: Docsify for Open Education and Publishing
 published: true
 visible: false
-subsite_list_description: A short guide to Docsify-This and the Docsify Starter Kits – free, open-source ways to share Markdown as web pages with no web server to set up – plus a path to a full Grav site.
-hide_from_subsite_list: false
-subsite_home: home
+description: A short guide to Docsify-This and the Docsify Starter Kits – free, open-source ways to share Markdown as web pages with no web server to set up – plus a path to a full Grav site.
+hide_from_course_list: false
+course_home: home
 redirect: /docsify/home
 image: typewriter-light-green-wide.jpg
 instructor: Paul Hibbitts

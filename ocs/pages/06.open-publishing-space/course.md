@@ -1,11 +1,11 @@
 ---
 title: 'Open Textbooks and Guides'
-subsite_list_title: 'Open Textbooks and Guides'
+course_list_title: 'Open Textbooks and Guides'
 published: true
 visible: false
-subsite_list_description: 'A short course on Open Publishing Space, for web-first open textbooks and guides – plus a free Pressbooks Converter.'
-hide_from_subsite_list: false
-subsite_home: home
+description: 'A short course on Open Publishing Space, for web-first open textbooks and guides – plus a free Pressbooks Converter.'
+hide_from_course_list: false
+course_home: home
 redirect: '/open-publishing-space/home'
 image: open-book-sky.jpg
 instructor: 'Paul Hibbitts'

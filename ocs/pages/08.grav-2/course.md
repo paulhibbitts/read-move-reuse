@@ -1,11 +1,11 @@
 ---
 title: Grav 2 for Open Education and Publishing
-subsite_list_title: Grav 2 for Open Education and Publishing
+course_list_title: Grav 2 for Open Education and Publishing
 published: true
 visible: false
-subsite_list_description: A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters and converters built on it.
-hide_from_subsite_list: false
-subsite_home: home
+description: A short guide to Grav 2, the free, open-source flat-file CMS, and why it suits open education and publishing – plus free website starters and converters built on it.
+hide_from_course_list: false
+course_home: home
 redirect: /grav-2/home
 image: plant-purple-window.jpg
 instructor: Paul Hibbitts

@@ -1,11 +1,11 @@
 ---
 title: 'Open Textbooks, Guides and Courses'
-subsite_list_title: 'Open Textbooks, Guides and Courses'
+course_list_title: 'Open Textbooks, Guides and Courses'
 published: true
 visible: false
-subsite_list_description: 'A short course on both website starters – Open Publishing Space and Open Course Space – plus the converters that bring in a Pressbooks book or LMS course.'
-hide_from_subsite_list: false
-subsite_home: home
+description: 'A short course on both website starters – Open Publishing Space and Open Course Space – plus the converters that bring in a Pressbooks book or LMS course.'
+hide_from_course_list: false
+course_home: home
 redirect: '/guide/home'
 image: chris-robert-P189JexXzQY-unsplash.jpg
 instructor: 'Paul Hibbitts'

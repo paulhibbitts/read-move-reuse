@@ -1,11 +1,11 @@
 ---
 title: 'Open Courses'
-subsite_list_title: 'Open Courses'
+course_list_title: 'Open Courses'
 published: true
 visible: false
-subsite_list_description: 'A short course on Open Course Space, for open courses organized by modules – one course or many – plus a free Common Cartridge Converter.'
-hide_from_subsite_list: false
-subsite_home: home
+description: 'A short course on Open Course Space, for open courses organized by modules – one course or many – plus a free Common Cartridge Converter.'
+hide_from_course_list: false
+course_home: home
 redirect: '/open-course-hub/home'
 image: bicycle-yellow-wall.jpg
 instructor: 'Paul Hibbitts'
