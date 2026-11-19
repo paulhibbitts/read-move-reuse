@@ -40,7 +40,7 @@ A fifth Read, Move, Reuse guide, for after ETUG (Nov 27, 2026). Not part of the 
 
 - When a full site is worth it: browser editing with Admin 2, guides-only search, Keep My Place, a blog alongside
 - Open Publishing Course Hub Converter: guides or a course between Docsify and Open Publishing Space or Open Course Hub, either direction, exact round trips
-- Other ways in: Docsify Common Cartridge Converter (LMS courses); Pressbooks Converter's Standard Markdown option
+- Other ways in: the Pressbooks and Common Cartridge Converters' Standard Markdown option
 - One link to the other guides for Grav itself – the only Grav part, to limit overlap
 
 ## 5. Which One Fits You?

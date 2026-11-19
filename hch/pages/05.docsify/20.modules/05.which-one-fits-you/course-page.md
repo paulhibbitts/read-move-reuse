@@ -12,7 +12,7 @@ Everything in this guide is **free and open-source**:
 - **"I want to share a Markdown file or folder now"** → [Docsify-This](https://docsify-this.net/?target=_blank)
 - **"I want my own site on GitHub Pages"** → a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html?target=_blank)
 - **"I want browser editing and a full website"** → Grav – see [Open Textbooks, Guides and Courses](/guide)
-- **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/?target=_blank) or [Docsify Common Cartridge](https://docsify-common-cartridge-converter.hibbittsdesign.org/?target=_blank) Converter
+- **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://pressbooks-converter.hibbittsdesign.org/?target=_blank) or [Common Cartridge](https://common-cartridge-converter.hibbittsdesign.org/?target=_blank) Converter
 
 [hideifembedded]
 
