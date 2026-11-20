@@ -11,6 +11,8 @@ hide_page_title: true
 
 Many platforms can make textbooks and courses open for their readers and learners. This short course introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
+In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
+
 This version is a course site, built with Open Course Space, so the course navbar, module list and header image you're using are its features at work – the same Markdown, moved from [the original guide](https://share-move-reuse.hibbittsdesign.org/guide?target=_blank), built with Open Publishing Space.
 
 > [!TIP]

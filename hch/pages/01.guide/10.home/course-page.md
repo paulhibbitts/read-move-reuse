@@ -13,6 +13,8 @@ navigation:
 
 Many platforms can make textbooks and courses open for their readers and learners. This short course introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
 
+In three words: **share** pages designed for all kinds of readers, **move** your content wherever you go, and **reuse** your Markdown.
+
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
