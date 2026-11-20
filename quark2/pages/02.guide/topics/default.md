@@ -38,6 +38,10 @@ Every topic in the guide, from A to Z.
 
 - [Full text of a guide](/guide/which-one-fits-you)
 
+## G
+
+- [Grav Docsify Bridge](/guide/from-pressbooks-or-your-lms)
+
 ## H
 
 - [Hosting (PHP, no database)](/guide/which-one-fits-you)
@@ -61,7 +65,6 @@ Every topic in the guide, from A to Z.
 
 - [OER attribution](/guide/open-publishing-space)
 - [Open Course Space](/guide/open-course-hub)
-- [Grav Docsify Bridge](/guide/from-pressbooks-or-your-lms)
 - [Open Publishing Space](/guide/open-publishing-space)
 
 ## P

@@ -22,9 +22,6 @@ Every topic in the course, from A to Z.
 
 - [Blog](/open-publishing-space/modules/open-publishing-space)
 
-## C
-
-
 ## D
 
 - [Dark mode](/open-publishing-space/modules/accessibility)
@@ -38,6 +35,10 @@ Every topic in the course, from A to Z.
 ## F
 
 - [Full text of a guide](/open-publishing-space/modules/getting-started)
+
+## G
+
+- [Grav Docsify Bridge](/open-publishing-space/modules/from-pressbooks)
 
 ## H
 
@@ -60,7 +61,6 @@ Every topic in the course, from A to Z.
 ## O
 
 - [OER attribution](/open-publishing-space/modules/open-publishing-space)
-- [Grav Docsify Bridge](/open-publishing-space/modules/from-pressbooks)
 - [Open Publishing Space](/open-publishing-space/modules/open-publishing-space)
 
 ## P

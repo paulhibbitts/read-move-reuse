@@ -19,9 +19,6 @@ Every topic in the guide, from A to Z.
 
 - [Blog](/open-publishing-space/open-publishing-space)
 
-## C
-
-
 ## D
 
 - [Dark mode](/open-publishing-space/accessibility)
@@ -35,6 +32,10 @@ Every topic in the guide, from A to Z.
 ## F
 
 - [Full text of a guide](/open-publishing-space/getting-started)
+
+## G
+
+- [Grav Docsify Bridge](/open-publishing-space/from-pressbooks)
 
 ## H
 
@@ -57,7 +58,6 @@ Every topic in the guide, from A to Z.
 ## O
 
 - [OER attribution](/open-publishing-space/open-publishing-space)
-- [Grav Docsify Bridge](/open-publishing-space/from-pressbooks)
 - [Open Publishing Space](/open-publishing-space/open-publishing-space)
 
 ## P

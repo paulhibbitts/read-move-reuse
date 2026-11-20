@@ -33,6 +33,10 @@ Every topic in the guide, from A to Z.
 
 - [Full text of a guide](/open-course-hub/getting-started)
 
+## G
+
+- [Grav Docsify Bridge](/open-course-hub/from-your-lms)
+
 ## H
 
 - [Home page reminders](/open-course-hub/open-course-hub)
@@ -58,7 +62,6 @@ Every topic in the guide, from A to Z.
 - [Open Course Hub 2](/open-course-hub/open-multicourse-hub)
 - [Open Course Space](/open-course-hub/open-course-hub)
 - [Open MultiCourse Hub 2](/open-course-hub/open-multicourse-hub)
-- [Grav Docsify Bridge](/open-course-hub/from-your-lms)
 
 ## P
 

@@ -36,6 +36,10 @@ Every topic in the course, from A to Z.
 
 - [Full text of a guide](/guide/modules/which-one-fits-you)
 
+## G
+
+- [Grav Docsify Bridge](/guide/modules/from-pressbooks-or-your-lms)
+
 ## H
 
 - [Hosting (PHP, no database)](/guide/modules/which-one-fits-you)
@@ -59,7 +63,6 @@ Every topic in the course, from A to Z.
 
 - [OER attribution](/guide/modules/open-publishing-space)
 - [Open Course Space](/guide/modules/open-course-hub)
-- [Grav Docsify Bridge](/guide/modules/from-pressbooks-or-your-lms)
 - [Open Publishing Space](/guide/modules/open-publishing-space)
 
 ## P
