@@ -23,6 +23,8 @@ All the starters and converters in this course are **free and open-source**, and
 3. **Add** `?embedded=true` to this page's address to see it as it would appear in your LMS
 4. **Sign in** to the [read-only Admin 2 demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin?target=_blank) and open a page to see its Markdown
 
+**Presenting this course?** Press ← and → to move between modules, and keep the sidebar showing so viewers can see where you are – use a wide browser window, as the sidebar folds away in narrow ones.
+
 [/hideifembedded]
 
 Then set up your own site:
