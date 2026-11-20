@@ -67,7 +67,7 @@ Every topic in the guide, from A to Z.
 ## O
 
 - [Open Course Space](/grav-2/modules/open-course-hub)
-- [Open Publishing Course Space Bridge](/grav-2/modules/getting-started)
+- [Grav Docsify Bridge](/grav-2/modules/getting-started)
 - [Open Publishing Space](/grav-2/modules/open-publishing-space)
 
 ## P

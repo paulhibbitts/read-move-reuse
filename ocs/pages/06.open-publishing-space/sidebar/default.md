@@ -6,7 +6,7 @@ cache_enable: false
 ---
 
 ## Want to Jump Right In?
-Download [Open Publishing Space](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site), try the [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank), or the [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/?target=_blank) – more free projects at [hibbittsdesign.org](https://hibbittsdesign.org/?target=_blank).
+Download [Open Publishing Space](https://getgrav.org/downloads/skeletons?target=_blank#open-publishing-space-site), try the [demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank), or the [Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/?target=_blank) – more free projects at [hibbittsdesign.org](https://hibbittsdesign.org/?target=_blank).
 
 ## Reuse These Materials
 They're licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank): copy them, adapt them and share them, with credit.

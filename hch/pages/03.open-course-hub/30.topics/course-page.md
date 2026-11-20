@@ -61,7 +61,7 @@ Every topic in the course, from A to Z.
 - [Open Course Hub 2](/open-course-hub/modules/open-multicourse-hub)
 - [Open Course Space](/open-course-hub/modules/open-course-hub)
 - [Open MultiCourse Hub 2](/open-course-hub/modules/open-multicourse-hub)
-- [Open Publishing Course Space Bridge](/open-course-hub/modules/from-your-lms)
+- [Grav Docsify Bridge](/open-course-hub/modules/from-your-lms)
 
 ## P
 
