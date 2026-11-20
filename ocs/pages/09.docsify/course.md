@@ -10,5 +10,5 @@ redirect: /docsify/home
 image: typewriter-light-green-wide.jpg
 instructor: Paul Hibbitts
 navbar_bg_color: '#2e7d57'
-side_box: '**See this guide on Docsify-This** – [the same Markdown files](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank#/docsify/README), shown as web pages with no web server to set up.'
+side_box: '**See this guide on Docsify-This** – [the same Markdown files](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-share-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank#/docsify/README), shown as web pages with no web server to set up.'
 ---
