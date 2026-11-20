@@ -26,7 +26,7 @@ attribution_text: 'This work by <a href="https://hibbittsdesign.org/">Paul Hibbi
 published: true
 child_type: section
 keep_my_place: true
-side_box: '**See this guide on Docsify-This** – [the same Markdown files](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Read%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank#/docsify/README), shown as web pages with no web server to set up.'
+side_box: '**See this guide on Docsify-This** – [the same Markdown files](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-read-move-reuse-site/main&homepage=home.md&name=Share%2C%20Move%2C%20Reuse&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&dark-mode=auto&loadFavicon=favicon.png&target=_blank#/docsify/README), shown as web pages with no web server to set up.'
 ---
 
 Many educators want to share their Markdown as web pages, but a web server, a CMS or a build step gets in the way. This short guide introduces two free, open-source ways to skip the web server and the build step – Docsify-This and the Docsify Starter Kits – with your Markdown files kept somewhere public, such as a free GitHub repository, plus a path to a full Grav site when a project needs more.

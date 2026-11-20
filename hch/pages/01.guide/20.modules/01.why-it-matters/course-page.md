@@ -2,7 +2,7 @@
 title: 'Why It Matters'
 published: true
 description: 'Pages designed for readers and learners, content authors can move between tools, and the raw Markdown for anyone to reuse.'
-learning_objectives: "- **Read:** see how both starters are designed for readers and learners\n- **Move:** take content between tools, and bring it in from Pressbooks or an LMS\n- **Reuse:** get any page's Markdown, for your own purposes"
+learning_objectives: "- **Share:** see how both starters share pages designed for readers and learners\n- **Move:** take content between tools, and bring it in from Pressbooks or an LMS\n- **Reuse:** get any page's Markdown, for your own purposes"
 side_box: '**See the Markdown behind this page** – [view it now](/guide/modules/why-it-matters.md?target=_blank), or add `.md` to any page''s address (both are Grav 2 features).'
 ---
 

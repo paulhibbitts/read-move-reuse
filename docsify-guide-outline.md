@@ -1,6 +1,6 @@
 # Draft outline – Docsify for Open Education and Publishing
 
-A fifth Read, Move, Reuse guide, for after ETUG (Nov 27, 2026). Not part of the site: this file sits outside `pages/`.
+A fifth Share, Move, Reuse guide, for after ETUG (Nov 27, 2026). Not part of the site: this file sits outside `pages/`.
 
 - **Title:** Docsify for Open Education and Publishing
 - **Subtitle:** Markdown on the Web, with No Web Server Needed

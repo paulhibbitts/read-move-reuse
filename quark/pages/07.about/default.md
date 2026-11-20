@@ -19,7 +19,7 @@ The site itself is built with Open Publishing Space, so it shows a few of its fe
 - **Pages for each guide** – a guide's own Topics and Resources join the menu while you read it, after a divider
 - **Site pages alongside the guides**, like this one
 
-**Read, Move, Reuse:** pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Share, Move, Reuse:** share pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
 **The tools behind it:** converters bring your existing books and courses in, and the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) moves your guides and courses between Docsify and Grav, both ways – the same Markdown, read, moved and reused.
 
