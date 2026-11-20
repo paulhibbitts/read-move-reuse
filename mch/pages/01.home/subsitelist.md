@@ -10,7 +10,7 @@ hide_page_title: true
 
 Free, open-source DIY tools for open textbooks, guides and courses – as five short courses from the same source. Not sure which? Start with the overview, [Open Textbooks, Guides and Courses](/guide).
 
-**Share, Move, Reuse:** share pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Share, Move, Reuse:** share pages designed for all kinds of readers · your content moves wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
 ===
 

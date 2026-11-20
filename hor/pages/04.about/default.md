@@ -11,7 +11,7 @@ This site holds five short guides to free, open-source DIY tools for open textbo
 - **[Grav 2 for Open Education and Publishing](/grav-2)** – Grav 2 itself, and the free starter skeletons, plugins and converters built on it
 - **[Docsify for Open Education and Publishing](/docsify)** – Docsify-This and the Docsify Starter Kits, for Markdown on the web with no web server to set up, plus a path to Grav
 
-**Share, Move, Reuse:** share pages designed for all kinds of readers · your content goes wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Share, Move, Reuse:** share pages designed for all kinds of readers · your content moves wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
 **The tools behind it:** converters bring your existing books and courses in, and the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/?target=_blank) moves your guides and courses between Docsify and Grav, both ways – the same Markdown, read, moved and reused.
 
