@@ -3,7 +3,7 @@ title: 'From Pressbooks or Your LMS'
 section_number: '4'
 description: 'Free converters turn an existing book or course into Markdown pages for either site.'
 child_type: section-page
-side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*\n\n**See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/?target=_blank), converted with no revisions."
+side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*\n\n**See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/?target=_blank), converted with no revisions."
 ---
 
 Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
@@ -29,6 +29,6 @@ Table: What carries over from a Pressbooks book
 
 *A module's intro page on a phone: its text and images, then its Learning Outcomes as a Learning Objectives box*
 
-Examples (raw conversions, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) · [LMS course content in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/)
+Examples (raw conversions, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/) · [LMS course content in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/)
 
 [^1]: Beta means they handle many books and courses well, but a converted guide or course may need some tidying – tables inserted with a Pressbooks shortcode, for example, need replacing with Markdown tables.

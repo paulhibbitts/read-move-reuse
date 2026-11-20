@@ -25,7 +25,7 @@ flowchart LR
 *An Open Publishing Space guide page on a phone: the header slides away as you read, and Previous/Next stay at the bottom*
 
 [hideifembedded]
-See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/)
+See the demo: [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/)
 
 Try the Admin 2 panel: [read-only demo](https://try.hibbittsdesign.org/grav-skeleton-open-publishing-space/admin) (the sign-in details are on its sign-in screen).
 [/hideifembedded]

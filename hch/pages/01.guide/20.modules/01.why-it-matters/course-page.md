@@ -20,7 +20,7 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **Reuse anywhere:** you (and, with an open licence, anyone) can get the Markdown behind any page they're viewing, with its callouts, math and diagrams intact – so it opens as it is in [Docsify-This](https://docsify-this.net/?target=_blank) (which shows Markdown as web pages) or on GitHub.
 
-**See the proof:** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) and [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions – more in [From Pressbooks or Your LMS](/guide/modules/from-pressbooks-or-your-lms).
+**See the proof:** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank) and [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions – more in [From Pressbooks or Your LMS](/guide/modules/from-pressbooks-or-your-lms).
 
 **One course, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use it many ways.
 

@@ -3,7 +3,7 @@ title: 'From Pressbooks'
 section_number: '3'
 description: 'A free converter turns an existing Pressbooks book into Markdown pages for your site.'
 child_type: section-page
-side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*"
+side_box: "**Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/?target=_blank), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/?target=_blank), converted with no revisions.\n\n*Thanks to the authors for making this book open!*"
 ---
 
 Already have a book in Pressbooks? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
@@ -18,4 +18,4 @@ Already have a book in Pressbooks? Start from it, with a free converter (in beta
 
 *A module's intro page on a phone: its text and images, then its Learning Outcomes as a Learning Objectives box*
 
-Example (a raw conversion, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/)
+Example (a raw conversion, with no revisions or fine-tuning): [an openly licensed Pressbooks book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/)
