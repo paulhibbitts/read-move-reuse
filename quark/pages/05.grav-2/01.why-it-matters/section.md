@@ -19,7 +19,7 @@ A simple text format for web pages – `**bold**`, `## Heading`, `- list item`. 
 
 **One guide, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it, or get its Markdown, page by page or as [one file for the whole guide](/grav-2/llms-full.txt?target=_blank) – all from the same pages. Write once, use it many ways.
 
-**About the author:** I'm Paul Hibbitts – after 25 years teaching user interface design, mostly at SFU, I now build free, open-source tools that turn Markdown into websites for open educators and publishers.
+**About the author:** I'm Paul Hibbitts – I design open-source publishing tools for open educators and publishers, drawing on over 25 years of interaction design and decades of teaching user interface design at SFU and UBC.
 
 [hideifembedded]
 See this page: [as Markdown](/grav-2/why-it-matters.md?target=_blank) · [embedded, as in an LMS](/grav-2/why-it-matters?embedded=true&target=_blank)
