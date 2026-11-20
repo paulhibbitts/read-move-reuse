@@ -6,7 +6,7 @@ cover_image_alt: 'A light green vintage typewriter with a blank sheet of paper, 
 cover_image_layout: small
 metadata:
     description: 'A short guide to Docsify-This and the Docsify Starter Kits – free, open-source ways to share Markdown as web pages with no web server to set up – plus a path to a full Grav site.'
-    'og:image': 'https://read-move-reuse.hibbittsdesign.org/user/media/og-docsify.jpg'
+    'og:image': 'https://share-move-reuse.hibbittsdesign.org/user/media/og-docsify.jpg'
     'og:image:alt': 'A light green vintage typewriter with a blank sheet of paper, on a cream background'
     'og:title': 'Docsify for Open Education and Publishing: Markdown on the Web, with No Web Server Needed'
     'og:description': 'A short guide to Docsify-This and the Docsify Starter Kits – free, open-source ways to share Markdown as web pages with no web server to set up – plus a path to a full Grav site.'

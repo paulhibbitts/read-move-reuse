@@ -43,6 +43,6 @@ Then set up your own site:
 
 With thanks to the authors of the openly licensed course used as an example, for sharing their work in the open 🙏🏻
 
-**Share this guide:** [read-move-reuse.hibbittsdesign.org/open-course-hub](https://read-move-reuse.hibbittsdesign.org/open-course-hub) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit.
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/open-course-hub](https://share-move-reuse.hibbittsdesign.org/open-course-hub) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?target=_blank), so you can copy it, adapt it and share it, with credit.
 
 Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
