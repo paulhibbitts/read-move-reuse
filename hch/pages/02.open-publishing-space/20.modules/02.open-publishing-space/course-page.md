@@ -7,7 +7,7 @@ side_box: "**See the demo** – [Open Publishing Space with a sample guide](http
 
 # Open Publishing Space
 
-A free, open-source website starter for sharing **web-first open textbooks and guides** alongside a blog and other pages, built on the Grav 2 CMS. And being web-first, the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
+A free, open-source website starter for open textbooks and guides, alongside a blog and other pages, built on the Grav 2 CMS. It's web-first: the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
 
 - Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (pick up where you left off, even partway down a page)
 - Present a guide like slides with the ← and → keys

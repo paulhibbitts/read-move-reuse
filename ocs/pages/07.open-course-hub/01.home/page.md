@@ -9,7 +9,11 @@ hide_page_title: true
 
 *Paul Hibbitts*
 
-Open course materials are meant to be shared and reused, but they often live inside an LMS, which can make them more challenging to share beyond enrolled students, reuse next term or move elsewhere – even for the instructors who made them. This short course introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
+Open course materials are meant to be shared and reused, but they often live inside an LMS – which can make them harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
+
+This short course introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
+
+In three words: **share** course pages designed for every learner, **move** your materials wherever you teach, and **reuse** your Markdown, term after term.
 
 This version is a course site, built with Open Course Space, so the course navbar, module list and header image you're using are its features at work – the same Markdown, moved from [the original guide](https://share-move-reuse.hibbittsdesign.org/open-course-hub?target=_blank), built with Open Publishing Space.
 
