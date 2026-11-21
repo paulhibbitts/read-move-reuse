@@ -19,4 +19,4 @@ This site holds five short courses on free, open-source DIY tools for open textb
 
 All five courses are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): copy them, adapt them and share them, with credit.
 
-Paul Hibbitts – [hibbittsdesign.org](https://hibbittsdesign.org/)
+Questions or ideas? [Get in touch](https://hibbittsdesign.org/contact.html) – Paul Hibbitts, [hibbittsdesign.org](https://hibbittsdesign.org/)
