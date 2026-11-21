@@ -6,7 +6,7 @@ child_type: section-page
 side_box: "**See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank), ready to explore.\n\n**See this page embedded** – [as it would look in Canvas, Moodle or Brightspace](/open-publishing-space/open-publishing-space?embedded=true&target=_blank)."
 ---
 
-A free, open-source website starter for open textbooks and guides, alongside a blog and other pages, built on the [term]Grav[/term] 2 CMS. It's [term]web-first[/term]: the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
+A free, open-source website starter for open textbooks and guides, alongside a blog and other pages, built on the [Grav](https://getgrav.org/?target=_blank) 2 CMS. It's [term]web-first[/term]: the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
 
 - Guides with section cards, reading progress, Learning Objectives, [term]OER[/term] attribution, search and **Keep My Place** (pick up where you left off, even partway down a page)
 - Present a guide like slides with the ← and → keys

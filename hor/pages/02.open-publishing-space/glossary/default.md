@@ -1,10 +1,8 @@
 ---
 title: Glossary
 menu_order: 3
-description: 'Terms used in this guide, from Grav to web-first.'
+description: 'Terms used in this guide, from Markdown to web-first.'
 glossary:
-  - term: Grav
-    definition: 'A free, open-source website system that keeps every page as a Markdown file, with no database. Open Publishing Space is built on it.'
   - term: Markdown
     definition: 'A simple text format for web pages – `**bold**`, `## Heading`, `- list item` – supported almost everywhere, from GitHub to note-taking apps.'
   - term: OER

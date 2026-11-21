@@ -18,6 +18,6 @@ In three words: **share** course pages designed for every learner, **move** your
 This version is a course site, built with Open MultiCourse Hub, so the course menu, module list and header image you're using are its features at work – the same Markdown, moved from [the original guide](https://share-move-reuse.hibbittsdesign.org/open-course-hub?target=_blank), built with Open Publishing Space.
 
 > [!TIP]
-> **Built on Grav 2:** the new version of [Grav CMS](https://getgrav.org/?target=_blank), a free, open-source website system – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
+> **Built on Grav 2:** the new version of [Grav](https://getgrav.org/?target=_blank), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
 [Start with Module 1 – Why It Matters](/open-course-hub/modules/why-it-matters)

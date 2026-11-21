@@ -6,7 +6,7 @@ child_type: section-page
 side_box: '**See the demo** – [Open Publishing Space with a sample guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/?target=_blank) – and you''re looking at one now, as this guide is built with it.'
 ---
 
-A free, open-source website starter for sharing **web-first open textbooks and guides**, alongside a blog and other pages – this site is built with it. Like every Grav **starter skeleton**, it comes as Grav 2, a theme and sample content, ready to upload.
+A free, open-source website starter for sharing web-first open textbooks and guides, alongside a blog and other pages – this site is built with it. Like every Grav **starter skeleton**, it comes as Grav 2, a theme and sample content, ready to upload.
 
 - Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (pick up where you left off)
 - One site can hold several guides, each with a card on a Guides page – like this site
