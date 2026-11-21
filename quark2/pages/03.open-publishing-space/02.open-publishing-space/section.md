@@ -16,7 +16,7 @@ A free, open-source website starter for sharing **[term]web-first[/term] open te
 
 ```mermaid
 flowchart LR
-  A[Read] --> B[Move] --> C[Reuse]
+  A[Share] --> B[Move] --> C[Reuse]
 ```
 
 Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` to a page's address.
